@@ -1,0 +1,107 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+
+
+//custom css by Chuqiao
+.sidebar li {
+  display: block;
+}
+
+.sidebar li a:hover{
+   color: #649794 !important;
+
+}
+
+.site-title {
+  color:   #649794;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+//homepage feature block
+.feature__wrapper li a {
+  color: #649794 !important;
+  text-decoration: none;
+}
+
+//remove line
+.feature__wrapper li {
+
+  list-style: none;
+}
+
+
+//margin tess widget
+.tess-widget li {
+  margin-left: -40px;
+}
+
+//resize the font size
+.page__content p, {
+  font-size: 0.75em;
+  text-decoration: none;
+}
+
+
+//remove the underline in a link
+.page__content a {
+
+  text-decoration: none;
+}
+
+a {
+  color:   #649794;
+}
+
+a:visited{
+  color:   #649794;
+}
+
+
+//add disc to sidebar menu list
+.sidebar.sticky nav ul {
+
+  padding: 10px;
+}
+
+.sidebar.sticky nav  li {
+
+ display: list-item !important;
+
+  list-style: disc;
+}
+
+
+@media (min-width: 80em) {
+  .page {
+    width: calc(100% - 300px);
+    padding-right: 0px;
+  }
+}
+
+//padding nav menu
+.greedy-nav {
+  padding-bottom: 35px;
+}
+
+//change the font size in a page content in li
+.page__content li a{
+  font-size: 1em;
+}
+
+.page__content li {
+
+  font-size:0.75em;
+}
+
+//hiden pagination
+.pagination {
+  display:none;
+}

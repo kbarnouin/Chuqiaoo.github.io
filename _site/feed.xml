@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-26T20:44:39+08:00</updated><id>http://localhost:4000/</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">BMSS 2018</title><link href="http://localhost:4000/news/bmss-2018/" rel="alternate" type="text/html" title="BMSS 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/bmss-2018</id><content type="html" xml:base="http://localhost:4000/news/bmss-2018/">&lt;p&gt;&lt;img src=&quot;/assets/images/image003.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">HUPO 2017</title><link href="http://localhost:4000/news/hupo-2017/" rel="alternate" type="text/html" title="HUPO 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/hupo-2017</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">BSPR meeting 2018</title><link href="http://localhost:4000/event/bspr-meeting-2018" rel="alternate" type="text/html" title="BSPR meeting 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2018</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2018">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt;Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Programme for BSPR 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please click &lt;a href=&quot;/assets/files/BSPR 2018 programme final 15-06-18.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Plenary speakers&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Daniel Chan&lt;/td&gt;
+      &lt;td&gt;Johns Hopkins School of Medicine, USA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Chuna Ram Choudhary&lt;/td&gt;
+      &lt;td&gt;University of Copenhagen, Denmark&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Julia Chamot-Rooke&lt;/td&gt;
+      &lt;td&gt;Institut Pasteur, France&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Angus Lamond&lt;/td&gt;
+      &lt;td&gt;University of Dundee, UK&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Keynote Speakers&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Claire Eyers&lt;/td&gt;
+      &lt;td&gt;University of Liverpool, UK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Paul Skipp&lt;/td&gt;
+      &lt;td&gt;University of Southampton, UK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Kathryn Lilley&lt;/td&gt;
+      &lt;td&gt;University of Cambridge, UK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Ben Collins&lt;/td&gt;
+      &lt;td&gt;ETH, Zurich, Switzerland&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Emøke Bendixen&lt;/td&gt;
+      &lt;td&gt;University of Aarhus, Denmark&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Stephen Gordon&lt;/td&gt;
+      &lt;td&gt;UCD Conway Institute, Ireland&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Henning Hermjakob&lt;/td&gt;
+      &lt;td&gt;EMBL-EBI, Cambridge, UK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Paul Cutler&lt;/td&gt;
+      &lt;td&gt;UCB Pharma, UK&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/files/BSPR 2018 data science workshop v 2.pdf&quot;&gt;Data Research Workshop&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The BSPR will be running a Data Research Workshop designed to introduce researchers to software and statistical methods to support proteomics data interpretation. The Workshop will be on Sunday 8th July from 14.00 to 18.00 in Forster Suite, The Midland Hotel, Bradford and run by Dr Ben Collins (ETH Zurich) and Dr Alistair Bailey (University of Southampton). The workshop is financed by BSPR as part of an initiative to provide training resources for its members. A nominal fee of £10 is required to cover refreshments.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://estore.bradford.ac.uk/product-catalogue/faculty-of-life-sciences/conferencesworkshops/the-british-society-for-proteome-research-annual-scientific-meeting-2018&quot;&gt;Registration&lt;/a&gt; for BSPR 2018&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration deadline – 6th July 2018&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Student BSPR member £80&lt;/li&gt;
+  &lt;li&gt;Student non-member £140&lt;/li&gt;
+  &lt;li&gt;Non-Student (Other) BSPR member £180&lt;/li&gt;
+  &lt;li&gt;Non-Student, Non-Member £240&lt;/li&gt;
+  &lt;li&gt;Wine Reception at Cartwright Hall (optional) £10&lt;/li&gt;
+  &lt;li&gt;Conference Dinner at Midland Hotel (optional) £40&lt;/li&gt;
+  &lt;li&gt;Data Research Workshop (optional) £10&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Please note for registration&lt;/strong&gt;: You can only add one item to your basket at a time. Therefore, to add the Wine Reception and Conference Dinner to the shopping basket use the following instruction:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Select the item, and click on add to basket.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Complete the questionnaire and then click next.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Click on Continue shopping&lt;/strong&gt;, this will return you to the home page.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Type in &lt;strong&gt;“BSPR”&lt;/strong&gt; in the search field, click on the link that pops up and it will return you to the BSPR store.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;You will now be able to add another item to your basket.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Evening events&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wine Reception at &lt;a href=&quot;http://www.bradfordmuseums.org/venues/cartwright-hall-art-gallery&quot;&gt;Cartwright Hall Art Gallery&lt;/a&gt;. Cartwright Hall Art Gallery is located in Lister Park, which was voted Britain’s Best Park in 2006. Cartwright Hall hosts an exhibition of art work and prints from local artists, including a gallery dedicated to Bradford-born, internationally renowned David Hockney. The charge of £10 covers transport to and from Cartwright Hall, back to the University, access to the Art Gallery, snacks and drinks.&lt;/p&gt;
+
+&lt;p&gt;Conference Dinner at &lt;a href=&quot;http://www.peelhotels.co.uk/hotels/midland-hotel-bradford-yorkshire-england/&quot;&gt;The Midland Hotel&lt;/a&gt;. The Midland Hotel is one of the oldest hotels in Bradford, with elegant ballrooms suitable for hosting our Conference Dinner. The charge of £40 will cover a 3 course meal and wine. This is a fantastic opportunity to network in an informal environment and to participate in the not-to-be-missed, world famous Professor Lilley trivial pursuit quiz. The Midland Hotel is also one of the main hotels for accommodation for the BSPR 2018 meeting offering a discounted price of £65, including B&amp;amp;B, single occupancy (see Accommodation).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract Submission&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Abstract submission deadline – 1st July 2018&lt;/p&gt;
+
+&lt;p&gt;Please click &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfvLqcHIxJFTK2tfVd1JEz0cq8TqWoT0CD3lzznFPQqBmHjrA/viewform?c=0&amp;amp;w=1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accommodation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please click here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Travel Grants, Bursaries and Fellowships&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please click here.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sponsors/&quot;&gt;Sponsors&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The BSPR Annual Scientific meeting would not be a success without the dedicated support of our sponsors and exhibitors, who play an essential role in dissemination of state-of-the-art proteomics research.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR 2018 poster invited speakers Apr.pdf&quot;&gt;BSPR 2018 poster&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 9, 2018 to Wednesday, July 11, 2018 Location:Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom</summary></entry><entry><title type="html">Membership renewal 2017</title><link href="http://localhost:4000/news/membership-renewal-2016/" rel="alternate" type="text/html" title="Membership renewal 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/membership-renewal-2016</id><content type="html" xml:base="http://localhost:4000/news/membership-renewal-2016/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">BSPR Lecturer</title><link href="http://localhost:4000/news/bspr-lecturer/" rel="alternate" type="text/html" title="BSPR Lecturer" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/bspr-lecturer</id><content type="html" xml:base="http://localhost:4000/news/bspr-lecturer/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">PMF 2017</title><link href="http://localhost:4000/news/pmf-2017/" rel="alternate" type="text/html" title="PMF 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/pmf-2017</id><content type="html" xml:base="http://localhost:4000/news/pmf-2017/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">Membership Renewal 2017</title><link href="http://localhost:4000/news/membership-renewal-2017/" rel="alternate" type="text/html" title="Membership Renewal 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/membership-renewal-2017</id><content type="html" xml:base="http://localhost:4000/news/membership-renewal-2017/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - February 2018</title><link href="http://localhost:4000/newsletters/Newsletter-February-2018/" rel="alternate" type="text/html" title="NEWSLETTER - February 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-February-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-February-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter-Feb 2018.pdf&quot;&gt;NEWSLETTER - February 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - February 2018</summary></entry><entry><title type="html">NEWSLETTER - August 2018</title><link href="http://localhost:4000/newsletters/Newsletter-August-2017/" rel="alternate" type="text/html" title="NEWSLETTER - August 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-August-2017</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-August-2017/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - August 2017.docx&quot;&gt;NEWSLETTER - August 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - August 2018</summary></entry><entry><title type="html">NEWSLETTER - Aprill 2017</title><link href="http://localhost:4000/newsletters/Newsletter-April-2017/" rel="alternate" type="text/html" title="NEWSLETTER - Aprill 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-April-2017</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-April-2017/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - April  2017.docx&quot;&gt;NEWSLETTER - Aprill 2017&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - Aprill 2017</summary></entry></feed>

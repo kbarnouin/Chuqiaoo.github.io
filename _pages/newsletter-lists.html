@@ -1,0 +1,28 @@
+---
+<!--type: pages-->
+layout: single
+title:  "Newsletter"
+<!--date:   2018-05-30-->
+permalink: /newsletters/
+comments: true
+sidebar:
+  nav: "docs"
+
+---
+
+<!--all poast list-->
+
+{%for post in site.categories.Newsletters%}
+
+
+   <li><a href = {{site.baseurl}}{{post.url}}> {{post.title}}</a></li>
+
+{% endfor %}
+
+
+<!--group post by different category-->
+<!--{% for post in site.categories.events %}-->
+<!--<li><a href=" {{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>-->
+<!--{% endfor %}-->
+
+
