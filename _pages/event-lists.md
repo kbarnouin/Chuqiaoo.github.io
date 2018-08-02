@@ -16,6 +16,11 @@ sidebar:
 
 <!--{% endfor %}-->
 
+
+### 2018
+
+- [BSPR 2018]({{site.baseurl}}/event/bspr-meeting-2018)
+
 ### 2016
 
 - [BSPR 2016]({{site.baseurl}}/event/bspr-meeting-2016)
