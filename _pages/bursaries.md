@@ -18,14 +18,11 @@ Several bursaries and fellowships are awarded to student and post-doc BSPR membe
 
 **Student Bursaries**
 
-Students (MSc and Ph.D.) awarded a bursary will receive £250 to help cover meeting registration, accommodation and travel expenses for the BSPR 2018 conference. To apply, please send a brief CV, a statement saying why you wish to attend the meeting and an abstract of the work that you plan to present to Karin Barnouin (kbarnouin@gmail.com) and John Timms (john.timms@ucl.ac.uk) no later than Monday 7th May 2018 (the abstract submission deadline for the meeting). Students must be paid-up members of the BSPR to apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
-
-
+Students (MSc and Ph.D.) awarded a bursary will receive £250 to help cover meeting registration, accommodation and travel expenses for the BSPR 2018 conference. To apply, please send a brief CV, a statement saying why you wish to attend the meeting and an abstract of the work that you plan to present to Karin Barnouin(kbarnouin@gmail.com) and John Timms (john.timms@ucl.ac.uk) no later than Monday 7th May 2018 (the abstract submission deadline for the meeting). Students must be paid-up members of the BSPR to apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
 
 **MJ Dunn Fellowships**
 
-MJ Dunn Fellowship awards will be given to cover registration, accommodation and travel expenses for the BSPR 2018 conference. To apply, please send a brief CV together with a statement saying why you wish to attend the meeting, including an abstract of the work that you plan to present to Karin Barnouin (kbarnouin@gmail.com) and John Timms (john.timms@ucl.ac.uk) no later than 7th May 2018 (the abstract submission deadline for BSPR). Applicants must be within six years of completing their Ph.D. and be paid-up members of the BSPR. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s Newsletter and webpages.
-
+MJ Dunn Fellowship awards will be given to cover registration, accommodation and travel expenses for the BSPR 2018 conference. To apply, please send a brief CV together with a statement saying why you wish to attend the meeting, including an abstract of the work that you plan to present to Karin Barnouin(kbarnouin@gmail.com)  and John Timms (john.timms@ucl.ac.uk) no later than 7th May 2018 (the abstract submission deadline for BSPR). Applicants must be within six years of completing their Ph.D. and be paid-up members of the BSPR. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s Newsletter and webpages.
 
 
 **Scientific Mission Program**
@@ -34,18 +31,17 @@ The Scientific Mission Program in collaboration with EuPA will support exchange 
 
 
 
-To be considered for this program, you should send a synopsis of the research proposal together with a short CV to Karin Barnouin (kbarnouin@gmail.com ) and John Timms (john.timms@ucl.ac.uk). Successful applicants will receive a presentation letter stating the amount allocated (€500 maximum) signed by the legal representative from BSPR.
+To be considered for this program, you should send a synopsis of the research proposal together with a short CV to Karin Barnouin(kbarnouin@gmail.com) and John Timms (john.timms@ucl.ac.uk). Successful applicants will receive a presentation letter stating the amount allocated (€500 maximum) signed by the legal representative from BSPR.
 
 
 
 The full application to the Scientific Mission Program must be sent to the EuPA Secretary, Christian Kleinhammer (c.kleinhammer@aon.at ), no later than one month before the scheduled mission. The applicant must produce two letters of presentation from two EuPA societies (signed by the respective legal representatives) stating the allocated amount and a research proposal synopsis (1 side A4 paper). Funds will be transferred to the successful applicant upon acknowledgment of the receiving institution with a letter stating the completion of the proposed activities. EuPA will subsidize this exchange program by matching the amount of the fellowship awarded to the young researcher by supporting EuPA member Societies up to €1000.
 
 
-
 Applicants must meet the following requirements：
 
-Be within seven years of being awarded a Ph.D. (for post-doctoral applicants) or Master/Bachelor degree (for Ph.D. student applicants)
-Be a BSPR member
+- Be within seven years of being awarded a Ph.D. (for post-doctoral applicants) or Master/Bachelor degree (for Ph.D. student applicants)
+- Be a BSPR member
 
 
 

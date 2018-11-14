@@ -28,7 +28,6 @@ sidebar:
 
 
 
-
 #### MJ DUNN FELLOW
 
 [Dr. Julien  Peltier]({{site.baseurl}}/assets/files/BSPR 2018_Dunn_fellow_Julien peltier.docx)
