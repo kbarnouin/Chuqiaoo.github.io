@@ -7,3 +7,5 @@ gem "jekyll", "~> 3.5"
 gem "jekyll-remote-theme"
 
 gem "jekyll-twitter-plugin"
+
+gem "rubyzip", ">= 1.2.2"

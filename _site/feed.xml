@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-14T15:12:52+08:00</updated><id>http://localhost:4000/</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">BMSS 2018</title><link href="http://localhost:4000/news/bmss-2018/" rel="alternate" type="text/html" title="BMSS 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/bmss-2018</id><content type="html" xml:base="http://localhost:4000/news/bmss-2018/">&lt;p&gt;&lt;img src=&quot;/assets/images/image003.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">HUPO 2017</title><link href="http://localhost:4000/news/hupo-2017/" rel="alternate" type="text/html" title="HUPO 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/hupo-2017</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">BSPR meeting 2018</title><link href="http://localhost:4000/event/bspr-meeting-2018" rel="alternate" type="text/html" title="BSPR meeting 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2018</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2018">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-11-14T22:41:41+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">BMSS 2018</title><link href="http://localhost:4000/news/bmss-2018/" rel="alternate" type="text/html" title="BMSS 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/bmss-2018</id><content type="html" xml:base="http://localhost:4000/news/bmss-2018/">&lt;p&gt;&lt;img src=&quot;/assets/images/image003.jpg&quot; /&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">BSPR-EBI 2011 programme</title><link href="http://localhost:4000/event/bspr-ebi-2011-programme" rel="alternate" type="text/html" title="BSPR-EBI 2011 programme" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2011</id><content type="html" xml:base="http://localhost:4000/event/bspr-ebi-2011-programme">&lt;figure&gt;
+    &lt;img src=&quot;/assets/images/bspr2011s.png&quot; /&gt;
+
+&lt;/figure&gt;
+
+&lt;h3 id=&quot;bspr-panel-discussion&quot;&gt;&lt;a href=&quot;/assets/files/BSPR2011Panel_Update_9Aug.pdf&quot;&gt;BSPR Panel Discussion&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration Extended&lt;/strong&gt;: Midnight - Wednesday 29th June 2011&lt;/p&gt;
+
+&lt;p&gt;Early Stage Career Investigator Award abstracts: 17th June 2011&lt;/p&gt;
+
+&lt;p&gt;Oral Communication abstracts: 17th June 2011&lt;/p&gt;
+
+&lt;p&gt;Poster abstracts: 17th June 2011&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/general-information&quot;&gt;General information&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/pre-meeting-bspr-workshop&quot;&gt;Pre-meeting BSPR Workshop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/joint-ebi-wellcome-trust-course-on-proteomics-bioinformatics&quot;&gt;Joint EBI-Wellcome Trust Course on Proteomics&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/assets/files/BSPR_2011_Programme.pdf&quot;&gt;Final Programme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/registration-information&quot;&gt;Registration information&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/bspr-awards-and-fellowships-2011&quot;&gt;Bursaries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;//poster-abstract-submission&quot;&gt;Poster Abstract Submission&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/oral-communication-abstract-submission&quot;&gt;Oral Communication Abstract Submission&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/early-stage-career-investigator-award&quot;&gt;Early Stage Career Investigator Award&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/travel-information-and-bus-timetable&quot;&gt;Travel Information and Bus Timetable&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/help-to-promote-this-meeting&quot;&gt;Help to Promote this Meeting&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Organisers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Organising Committee&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rainer Cramer&lt;/li&gt;
+  &lt;li&gt;Mike Dunn&lt;/li&gt;
+  &lt;li&gt;Henning Hermjakob&lt;/li&gt;
+  &lt;li&gt;Kathryn Lilley&lt;/li&gt;
+  &lt;li&gt;David O’Connor&lt;/li&gt;
+  &lt;li&gt;Chris Sutton&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Programme Committee&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Rainer Cramer&lt;/li&gt;
+  &lt;li&gt;Steve Pennington&lt;/li&gt;
+  &lt;li&gt;Rolf Apweiler&lt;/li&gt;
+  &lt;li&gt;Rob Beynon&lt;/li&gt;
+  &lt;li&gt;John Timms&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Key dates&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Deadlines&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Registration Extended: Midnight - Wednesday 29th June 2011&lt;/li&gt;
+  &lt;li&gt;Submission of poster abstracts: CLOSED&lt;/li&gt;
+  &lt;li&gt;Submission of Early Stage Career Investigator Award abstracts: CLOSED&lt;/li&gt;
+  &lt;li&gt;Submission of oral communication abstracts: CLOSED&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Please send any enquiries relating to registration and abstract submission via e-mail to: registration@bspr.org&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;
+The conference will take place at the Wellcome Trust Conference Centre (http://www.wtconference.org.uk/), located on the Wellcome Trust Genome Campus at Hinxton, near Cambridge, UK, which houses the European Bioinformatics Institute (http://www.ebi.ac.uk/), and the Wellcome Trust Sanger Institute (http://www.sanger.ac.uk/).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accommodation&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There is a limited amount of accommodation on-site at the WTCC, so early registration for the meeting is advised. If this accommodation package is not suitable, then a list of alternative accommodation either close to Hinxton or in the Cambridge area can be obtained from Frank O’Donnell (frank@ebi.ac.uk) at the EBI. This accommodation has to be reserved directly by delegates. Read more in the registration page.&lt;/p&gt;
+
+&lt;p&gt;For enquiries relating to either registration or abstract submission please contact via email to registration@bspr.org. For all other enquiries relating to the conference please contact via email to meetings@bspr.org&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - january 2012</title><link href="http://localhost:4000/newsletters/Newsletter-january-2012/" rel="alternate" type="text/html" title="NEWSLETTER - january 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-january-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-january-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-January_2012.pdf&quot;&gt;NEWSLETTER -  January 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - January 2012</summary></entry><entry><title type="html">NEWSLETTER - March 2012</title><link href="http://localhost:4000/newsletters/Newsletter-March-2012/" rel="alternate" type="text/html" title="NEWSLETTER - March 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-March-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-March-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-March_2012.pdf&quot;&gt;NEWSLETTER -  March 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - March 2012</summary></entry><entry><title type="html">NEWSLETTER - May 2012</title><link href="http://localhost:4000/newsletters/Newsletter-May-2012/" rel="alternate" type="text/html" title="NEWSLETTER - May 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2012.pdf&quot;&gt;NEWSLETTER -  May 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2012</summary></entry><entry><title type="html">BSPR meeting 2011</title><link href="http://localhost:4000/event/bspr-meeting-2012" rel="alternate" type="text/html" title="BSPR meeting 2011" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2012</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2012">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt;Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Programme for BSPR 2018&lt;/strong&gt;&lt;/p&gt;
@@ -137,4 +209,236 @@
 
 &lt;p&gt;The BSPR Annual Scientific meeting would not be a success without the dedicated support of our sponsors and exhibitors, who play an essential role in dissemination of state-of-the-art proteomics research.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR 2018 poster invited speakers Apr.pdf&quot;&gt;BSPR 2018 poster&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 9, 2018 to Wednesday, July 11, 2018 Location:Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom</summary></entry><entry><title type="html">Membership renewal 2017</title><link href="http://localhost:4000/news/membership-renewal-2016/" rel="alternate" type="text/html" title="Membership renewal 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/membership-renewal-2016</id><content type="html" xml:base="http://localhost:4000/news/membership-renewal-2016/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">BSPR Lecturer</title><link href="http://localhost:4000/news/bspr-lecturer/" rel="alternate" type="text/html" title="BSPR Lecturer" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/bspr-lecturer</id><content type="html" xml:base="http://localhost:4000/news/bspr-lecturer/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">PMF 2017</title><link href="http://localhost:4000/news/pmf-2017/" rel="alternate" type="text/html" title="PMF 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/pmf-2017</id><content type="html" xml:base="http://localhost:4000/news/pmf-2017/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">Membership Renewal 2017</title><link href="http://localhost:4000/news/membership-renewal-2017/" rel="alternate" type="text/html" title="Membership Renewal 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/news/membership-renewal-2017</id><content type="html" xml:base="http://localhost:4000/news/membership-renewal-2017/"></content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - February 2018</title><link href="http://localhost:4000/newsletters/Newsletter-February-2018/" rel="alternate" type="text/html" title="NEWSLETTER - February 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-February-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-February-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter-Feb 2018.pdf&quot;&gt;NEWSLETTER - February 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - February 2018</summary></entry><entry><title type="html">NEWSLETTER - August 2018</title><link href="http://localhost:4000/newsletters/Newsletter-August-2017/" rel="alternate" type="text/html" title="NEWSLETTER - August 2018" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-August-2017</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-August-2017/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - August 2017.docx&quot;&gt;NEWSLETTER - August 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - August 2018</summary></entry><entry><title type="html">NEWSLETTER - Aprill 2017</title><link href="http://localhost:4000/newsletters/Newsletter-April-2017/" rel="alternate" type="text/html" title="NEWSLETTER - Aprill 2017" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-April-2017</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-April-2017/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - April  2017.docx&quot;&gt;NEWSLETTER - Aprill 2017&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - Aprill 2017</summary></entry></feed>
+&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR 2018 poster invited speakers Apr.pdf&quot;&gt;BSPR 2018 poster&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 9, 2018 to Wednesday, July 11, 2018 Location:Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom</summary></entry><entry><title type="html">NEWSLETTER - January 2013</title><link href="http://localhost:4000/newsletters/Newsletter-January-2013/" rel="alternate" type="text/html" title="NEWSLETTER - January 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-January-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-January-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-Jan_2013.pdf&quot;&gt;NEWSLETTER -  January 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - January 2013</summary></entry><entry><title type="html">NEWSLETTER - May 2013</title><link href="http://localhost:4000/newsletters/Newsletter-May-2013/" rel="alternate" type="text/html" title="NEWSLETTER - May 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2013.pdf&quot;&gt;NEWSLETTER -  May 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2013</summary></entry><entry><title type="html">BSPR meeting 2013</title><link href="http://localhost:4000/event/bspr-meeting-2013" rel="alternate" type="text/html" title="BSPR meeting 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2013</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2013">&lt;figure&gt;
+    &lt;img src=&quot;/assets/images/bspr-meeting-2013.png&quot; /&gt;
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Late-breaking abstracts now invited!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Keynote speaker&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Identifying sites where post-translational modifications regulate the interactome from proteomics and structural data - Rob Russell (Heidelberg)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Invited speakers&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A mass spectrometry based framework to determine protein structure – Perdita Barran (Manchester)&lt;/p&gt;
+
+&lt;p&gt;Mechanisms of signalling plasticity and heterogeneity that contribute to cancer drug resistance – Pedro Cutillas (London)&lt;/p&gt;
+
+&lt;p&gt;Mass spectrometry tissue imaging and profiling: Finding the right roles within pharmaceutical R&amp;amp;D – Richard Goodwin (Manchester)&lt;/p&gt;
+
+&lt;p&gt;Challenges in the analysis of dynamic signaling complexes – Matthias Gstaiger (Zurich)&lt;/p&gt;
+
+&lt;p&gt;Labeling and enrichment strategies for the analysis of protein synthesis and secretion – Jeroen Krijgsveld (Heidelberg)&lt;/p&gt;
+
+&lt;p&gt;Struggling towards a comprehensive characterization of phosphoproteomes – Shabaz Mohammed (Oxford)&lt;/p&gt;
+
+&lt;p&gt;Conformational changes of multi-protein complexes determined by mass spectrometry – Juri Rappsilber (Edinburgh)&lt;/p&gt;
+
+&lt;p&gt;Direct mass spectrometric profiling of biological tissues - from histological sections to endoscopy – Zoltan Takats (London)&lt;/p&gt;
+
+&lt;p&gt;Quantitative analysis of protein complexes over space and time – Marius Ueffing (Tubingen)&lt;/p&gt;
+
+&lt;p&gt;Quantitative interaction proteomics for epigenetics – Michiel Vermeulen (Utrecht)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/files/BSPR 2013 Meeting Programme.pdf&quot;&gt;Programme&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We are pleased to announce that the BSPR 2013 Scientific Meeting will be held over two full days from Tuesday 3rd to Wednesday 4th December 2013 at the East Midlands Conference Centre, University Park Campus, Nottingham.&lt;/p&gt;
+
+&lt;p&gt;The programme includes world class speakers, free communications, poster presentations and a trade exhibition. Topics include protein function, (structure, interactions, and temporal analysis), post translational modifications, protein function in space (sub-cellular analysis), tissues and organisms, as well as a vendors’ session.&lt;/p&gt;
+
+&lt;p&gt;In recognition of the outstanding success of EuPA 2012, special registration rates are being offered and include teas, coffees, lunches, a buffet dinner at the end of the sessions on Tuesday evening. Students members can register for £130 and BSPR members for £200.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Table of contents&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#key-dates&quot;&gt;Key dates&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#venue&quot;&gt;Venue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#conference-programme&quot;&gt;Conference programme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#organising-committees&quot;&gt;Organising committees&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#scientific-programme&quot;&gt;Scientific programme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#trade-sponsors-and-trade-exhibition&quot;&gt;Trade sponsors and trade exhibition&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#social-programme&quot;&gt;Social programme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#accommodation&quot;&gt;Accommodation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#registration&quot;&gt;Registration&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#abstract-submission---late-breaking-abstracts-now-invited&quot;&gt;Abstract submission - late-breaking abstracts now invited&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#mj-dunn-fellowships&quot;&gt;MJ Dunn Fellowships&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#transport-to-venue&quot;&gt;Transport to venue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sponsors&quot;&gt;Sponsors&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;key-dates&quot;&gt;Key dates&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Key-dates.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Registration and Abstract Submission opened 12 July 2013&lt;/li&gt;
+  &lt;li&gt;Abstract Submission deadline extended to Monday 16 September 2013&lt;/li&gt;
+  &lt;li&gt;Abstract acceptance notification Wednesday 9 October 2013&lt;/li&gt;
+  &lt;li&gt;Late-breaking Abstract Submission deadline 1 November 2013 - after this date inclusion in the abstract book cannot be guaranteed
+Back to TOC&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;venue&quot;&gt;Venue&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/EMCC.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;East Midlands Conference Centre &amp;amp; Orchard Hotel,&lt;br /&gt;
+University Park,&lt;br /&gt;
+The University of Nottingham,&lt;br /&gt;
+Nottingham, Nottinghamshire&lt;br /&gt;
+NG7 2RJ&lt;br /&gt;
+Telephone: 0871 222 4836&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;The EMCC is based within University Park which is on a major bus route and therefore easily accessible. The nearest train station to University Park is Beeston Station however the main station, Nottingham Station, is only a short taxi ride away and has taxi ranks located outside the station. Nottingham Station is approximately a two hour train ride from both London and Manchester or an hour and a half from Birmingham.&lt;/p&gt;
+
+&lt;p&gt;Visit the &lt;a href=&quot;http://www.nottinghamconferences.co.uk/emcc/&quot;&gt;EMCC&lt;/a&gt; website for further information.&lt;/p&gt;
+
+&lt;h2 id=&quot;conference-programme&quot;&gt;Conference programme&lt;/h2&gt;
+&lt;p&gt;The Conference is scheduled to open on the morning of 3 December with Registration at 8:00 followed by the Welcome address at 9:30, and will close on 4 December at 16:00. Please note times are provisional and may change.&lt;/p&gt;
+
+&lt;p&gt;Download the Conference &lt;a href=&quot;/assets/files/BSPR 2013 Meeting Programme.pdf&quot;&gt;Programme&lt;/a&gt; here.&lt;/p&gt;
+
+&lt;h2 id=&quot;organising-committees&quot;&gt;Organising committees&lt;/h2&gt;
+&lt;p&gt;Local Organising Committee:&lt;br /&gt;
+            Josie Beeley (Convener)&lt;br /&gt;
+            Claire Agnew (MCI)&lt;br /&gt;
+            Lynn Samson (MCI)&lt;br /&gt;
+            Sara Zanivan (Conference programme)&lt;br /&gt;
+            Richard Burchmore&lt;br /&gt;
+            Bob Amess (website)&lt;br /&gt;
+            Chris Sutton (Trade Exhibition)&lt;br /&gt;
+            Robert Layfield (on site representative)&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;Scientific Committee&lt;br /&gt;
+            Sara Zanivan (Convener)&lt;br /&gt;
+            Richard Burchmore&lt;br /&gt;
+            Walter Kolch&lt;br /&gt;
+            Steve Pennington&lt;br /&gt;
+            Juri Rappsilber&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;scientific-programme&quot;&gt;Scientific programme&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Sessions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Protein structure&lt;/li&gt;
+  &lt;li&gt;Protein function in time and space&lt;/li&gt;
+  &lt;li&gt;Post-translational modifications&lt;/li&gt;
+  &lt;li&gt;Protein interactions&lt;/li&gt;
+  &lt;li&gt;Protein function in tissues and organisms&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Vendors session (by commercial delegates)
+&lt;strong&gt;Keynote speaker&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Rob Russell - Heidelberg - Identifying sites where post-translational modifications regulate the interactome from proteomics and structural data&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Invited speakers:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perdita Barran - Manchester - A mass spectrometry based framework to determine protein structure&lt;/li&gt;
+  &lt;li&gt;Pedro Cutillas - London - Mechanisms of signalling plasticity and heterogeneity that contribute to cancer drug resistance&lt;/li&gt;
+  &lt;li&gt;Richard Goodwin - Manchester - Mass spectrometry tissue imaging and profiling: Finding the right roles within pharmaceutical R&amp;amp;D&lt;/li&gt;
+  &lt;li&gt;Matthias Gstaiger - Zurich - Challenges in the analysis of dynamic signaling complexes&lt;/li&gt;
+  &lt;li&gt;Jeroen Krijgsveld - Heidelberg - Labeling and enrichment strategies for the analysis of protein synthesis and secretion&lt;/li&gt;
+  &lt;li&gt;Shabaz Mohammed - Oxford - Struggling towards a comprehensive characterization of phosphoproteomes&lt;/li&gt;
+  &lt;li&gt;Juri Rappsilber - Edinburgh - Conformational changes of multi-protein complexes determined by mass spectrometry&lt;/li&gt;
+  &lt;li&gt;Zoltan Takats - London - Direct mass spectrometric profiling of biological tissues - from histological sections to endoscopy&lt;/li&gt;
+  &lt;li&gt;Marius Ueffing - Tubingen - Quantitative analysis of protein complexes over space and time&lt;/li&gt;
+  &lt;li&gt;Michiel Vermeulen - Utrecht - Quantitative interaction proteomics for epigenetics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(Titles of presentations will be posted as soon as they become available; the detailed scientific programme will not be available until abstract acceptances are known.)&lt;/p&gt;
+
+&lt;h2 id=&quot;trade-sponsors-and-trade-exhibition&quot;&gt;Trade sponsors and trade exhibition&lt;/h2&gt;
+&lt;p&gt;The Conference will include a Trade Exhibition and there will also be exciting sponsorship opportunities to choose from starting at only £100+ VAT ranging upwards to Platinum sponsor.&lt;/p&gt;
+
+&lt;p&gt;The Trade Exhibition will take place within the Exhibition and Banqueting Suite of the Conference Centre where the posters will be displayed as well as where tea, coffee and lunch will be served. On the Tuesday evening there will be a chance to network informally over food and drinks while viewing the posters and Trade Exhibition.&lt;/p&gt;
+
+&lt;p&gt;Adequate time has been scheduled in the programme for poster and Trade Exhibition viewing only. Oral sessions will be strictly kept to time using a light/audible timer system to ensure that speakers keep to time and that the oral sessions do not encroach on Trade Exhibition viewing times and coffee and lunch breaks.&lt;/p&gt;
+
+&lt;p&gt;For full information about Sponsorship and Trade Exhibition Opportunities - please click &lt;a href=&quot;/assets/files/13BSPNOT - Sponsorship and Trade Opportunities version 5.pdf&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;social-programme&quot;&gt;Social programme&lt;/h2&gt;
+&lt;p&gt;The main social event of the conference will be the ‘Informal networking session’ to be held in the Trade Exhibition area (Banqueting Suite) of the East Midlands Conference Centre. This will be held at the end of the scientific session on the first day.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/EMCC2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Afterwards, delegates may wish to proceed to the adjacent Orchard Hotel where accommodation is available, to meet colleagues informally in the bar or other meeting areas.&lt;/p&gt;
+
+&lt;p&gt;Nottingham, in the heart of England, is also a compact and diverse city which is easy to reach and easy to get around. The EMCC is only a few miles from Nottingham city centre which offers over 300 restaurants in the city centre alone with continental style dining bars and entertainment, and a Christmas Market. Other attractions include Ye Olde Trip to Jerusalem (England’s Oldest Inn), City of Caves, and Nottingham Castle. With an early finish to the evening meal, there will be adequate opportunity to explore this vibrant city.&lt;/p&gt;
+
+&lt;h2 id=&quot;accommodation&quot;&gt;Accommodation&lt;/h2&gt;
+&lt;p&gt;Accommodation is available at the adjacent De Vere Orchard Hotel. Please quote the code “BSPRB” when making the bedroom booking online. Bedrooms are not guaranteed and rates will be the best available depending on availability at the time of booking. Bedrooms are bed and breakfast and will be fully pre-payable direct to the hotel and are non-refundable. For further information, please click &lt;a href=&quot;http://www.deverevenues.co.uk/en/venues/east-midlands-conference-centre-orchard-hotel/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/Orchard-Hotel.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Budget hotel accommodation is available at the &lt;a href=&quot;http://www.travelodge.co.uk/hotels/474/&quot;&gt;Travelodge Nottingham Wollaton Park Hotel&lt;/a&gt; which is located just outside the campus where the conference is being held. Delegates staying at the Travelodge will still be able to take part in the social and networking evenings at the Orchard Hotel.&lt;/p&gt;
+
+&lt;h2 id=&quot;registration&quot;&gt;Registration&lt;/h2&gt;
+&lt;p&gt;Registration rates:&lt;/p&gt;
+
+&lt;p&gt;BSPR Member (except student) £200.00&lt;/p&gt;
+
+&lt;p&gt;Non-Member (delegate from academic and/or not-for-profit organization) £300&lt;/p&gt;
+
+&lt;p&gt;Non-Member (delegate from industry) £400&lt;/p&gt;
+
+&lt;p&gt;Student (BSPR Member) £130.00&lt;/p&gt;
+
+&lt;p&gt;To qualify for the BSPR Member rates, including the Student rate, members must be in good standing on 21st October 2013.&lt;/p&gt;
+
+&lt;p&gt;Registration includes: teas, coffees, lunches, a buffet dinner at the end of the sessions on Tuesday evening. Accommodation is not included, and delegates are advised to arrange their own accommodation - please see the Accommodation section for further information.&lt;/p&gt;
+
+&lt;p&gt;Registration is now open! Please click &lt;a href=&quot;https://b-com.mci-group.com/Registration/13BSPNOT.aspx&quot;&gt;here&lt;/a&gt; to register&lt;/p&gt;
+
+&lt;h2 id=&quot;abstract-submission---late-breaking-abstracts-now-invited&quot;&gt;Abstract submission - late-breaking abstracts now invited&lt;/h2&gt;
+&lt;p&gt;Delegates are invited to submit abstracts for both oral and poster presentations at the conference.&lt;/p&gt;
+
+&lt;p&gt;Contribute to the success of the meeting by submitting your abstract now for poster or oral presentation!&lt;/p&gt;
+
+&lt;p&gt;Late-breaking abstracts will be accepted until 1 November 2013 (after this date inclusion in the abstract book cannot be guaranteed) and should be sent by e-mail to bspr2013@mci-group.com. Please see the &lt;a href=&quot;/assets/files/BSPR_2013_Meeting_Late-Breaking_Abstracts_Guide.pdf&quot;&gt;abstract submission guidelines&lt;/a&gt; for details on how to format your abstract.&lt;/p&gt;
+
+&lt;p&gt;Abstract acceptance notification for abstracts submitted by 16 September will be Wednesday 9 October 2013. Notification for late-breaking abstracts will be made as soon as possible after submission, but not before Wednesday 9 October&lt;/p&gt;
+
+&lt;p&gt;There will be an oral session dedicated to research presentations by industry - scientific suppliers, pharma or biotech; poster presentations from this group are also welcome.&lt;/p&gt;
+
+&lt;p&gt;There will also be an ‘Early Career Investigator Award’ (Eligibility: PhD obtained after the 30th November 2007). To apply send a short CV, including publications, to bspr2013@mci-group.com&lt;/p&gt;
+
+&lt;p&gt;Please indicate on the abstract submission form if you wish your abstract to be included in either of the above.&lt;/p&gt;
+
+&lt;h2 id=&quot;mj-dunn-fellowships&quot;&gt;MJ Dunn Fellowships&lt;/h2&gt;
+&lt;p&gt;The British Society for Proteome Research is pleased to announce that it will be offering two “MJ Dunn Fellowships” for Ph.D students and early-stage post-doctoral researchers to attend the Society’s annual meeting in Nottingham on 3-4 December 2013. The deadline for applications is Tuesday 1 October 2013. Please see the &lt;a href=&quot;/assets/files/MJ Dunn Fellowships Announcement 2013.pdf&quot;&gt;annoucement&lt;/a&gt; for further details and the &lt;a href=&quot;/assets/files/MJ Dunn Fellowships Application Form 2013.pdf&quot;&gt;application&lt;/a&gt; form&lt;/p&gt;
+
+&lt;p&gt;Transport to venue
+By Bus
+University Park is located on a major bus route. For timetables visit www.trentbarton.co.uk/ or phone 01773 712265 or visit www.nctx.co.uk or phone 0115 9506070 for further information.&lt;/p&gt;
+
+&lt;p&gt;By Car
+Leave the M1 motorway at junction 25 and follow the A52 signposted to Nottingham. After approximately 4.4 miles turn right at the roundabout (Toby Carvery) onto the A6464 Woodside Road. Turn left at the next roundabout to enter the University of Nottingham’s West Entrance.  The EMCC is situated on Beeston Road, which is the main loop road through the campus.&lt;/p&gt;
+
+&lt;p&gt;By Rail
+The nearest stations to the East Midlands Conference Centre are Beeston Station and Nottingham Station. There are over 30 direct trains that travel between St Pancras and Nottingham on a daily basis. Visit www.nationalrail.co.uk or phone 08457 484950 for further information.  Please note that Beeston Station does not have a taxi rank.  Nottingham Station is only a short taxi ride away and has a taxi rank located outside the station.&lt;/p&gt;
+
+&lt;p&gt;By Air
+From East Midlands Airport, the EMCC is just 14 miles away via the M1 North leaving at junction 25 and following the A52. There is also the regular Skylink Nottingham bus, leaving &lt;a href=&quot;https://awardbird.com/frequent-flyer-programs/flying-blue-air-france&quot;&gt;directly from the airport&lt;/a&gt; directed to Broad Marsh Bus Station. Alight at Beeston, which is the stop for the main University campus, a few minutes walk from the entrance to the East Midlands Conference Centre.&lt;/p&gt;
+
+&lt;h2 id=&quot;sponsors&quot;&gt;Sponsors&lt;/h2&gt;
+
+&lt;h2 id=&quot;contact-us&quot;&gt;Contact us&lt;/h2&gt;
+&lt;p&gt;For further information, please contact Claire Agnew:&lt;/p&gt;
+
+&lt;p&gt;BSPR 2013 Meeting c/o Conference Secretariat MCI UK Ltd
+272 Bath Street
+Glasgow
+G2 4JR&lt;/p&gt;
+
+&lt;p&gt;Tel: +44 (0) 141 354 1660
+Fax: +44 (0) 141 354 1661&lt;/p&gt;
+
+&lt;p&gt;Email:&lt;/p&gt;
+
+&lt;p&gt;General / Abstract Submission	-	bspr2013@mci-group.com
+Trade Exhibition / Sponsorship	-	bspr2013industry@mci-group.com
+Registration	-	bspr2013reg@mci-group.com&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - August 2013</title><link href="http://localhost:4000/newsletters/Newsletter-August-2013/" rel="alternate" type="text/html" title="NEWSLETTER - August 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-August-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-August-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter_August_2013.pdf&quot;&gt;NEWSLETTER -  August 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - August 2013</summary></entry></feed>

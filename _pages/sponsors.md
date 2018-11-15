@@ -64,7 +64,6 @@ gallery:
     image_path: /assets/sponsors/Waters_logo_K_web2.jpg
     alt: "placeholder image 3"
 
-
 ---
 
 
