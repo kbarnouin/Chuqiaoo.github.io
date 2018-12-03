@@ -163,4 +163,9 @@ var store = [{
         "excerpt":" ","categories": ["News"],
         "tags": [],
         "url": "http://localhost:4000/news/bmss-2018/",
+        "teaser":null},{
+        "title": "NEWSLETTER - November 2018",
+        "excerpt":"NEWSLETTER - November 2018 ","categories": ["Newsletters"],
+        "tags": [],
+        "url": "http://localhost:4000/newsletters/Newsletter-November-2018/",
         "teaser":null}]
