@@ -175,7 +175,7 @@ var store = [{
         "url": "http://localhost:4000/event/bspr-meeting-2019",
         "teaser":null},{
         "title": "HUPO 2017 World Congress",
-        "excerpt":"Joe Biden’s welcome address to delegates of HUPO2017 HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden ","categories": ["News"],
+        "excerpt":"BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee. The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to...","categories": ["News"],
         "tags": [],
         "url": "http://localhost:4000/news/hupo-2017-world-congress/",
         "teaser":null}]
