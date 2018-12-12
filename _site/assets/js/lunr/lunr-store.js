@@ -155,7 +155,7 @@ var store = [{
         "url": "http://localhost:4000/event/bspr-meeting-2018",
         "teaser":null},{
         "title": "HUPO 2017",
-        "excerpt":"","categories": ["News"],
+        "excerpt":"hupo2017content1.jpg  BSPR is proud to announce that will be hosting HUPO 2017 in Dublin: http://hupo2017.ie/”. ","categories": ["News"],
         "tags": [],
         "url": "http://localhost:4000/news/hupo-2017/",
         "teaser":null},{
@@ -168,4 +168,14 @@ var store = [{
         "excerpt":"NEWSLETTER - November 2018 ","categories": ["Newsletters"],
         "tags": [],
         "url": "http://localhost:4000/newsletters/Newsletter-November-2018/",
+        "teaser":null},{
+        "title": "BSPR meeting 2019",
+        "excerpt":"Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019Location: Southampton More information coming soon! ","categories": ["Events"],
+        "tags": [],
+        "url": "http://localhost:4000/event/bspr-meeting-2019",
+        "teaser":null},{
+        "title": "HUPO 2017 World Congress",
+        "excerpt":"Joe Biden’s welcome address to delegates of HUPO2017 HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden ","categories": ["News"],
+        "tags": [],
+        "url": "http://localhost:4000/news/hupo-2017-world-congress/",
         "teaser":null}]

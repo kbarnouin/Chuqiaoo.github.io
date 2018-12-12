@@ -1,76 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-04T16:07:24+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">NEWSLETTER - November 2018</title><link href="http://localhost:4000/newsletters/Newsletter-November-2018/" rel="alternate" type="text/html" title="NEWSLETTER - November 2018" /><published>2018-12-03T00:00:00+08:00</published><updated>2018-12-03T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-November-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-November-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - Nov_2018.pdf&quot;&gt;NEWSLETTER - November 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - November 2018</summary></entry><entry><title type="html">BSPR-EBI 2011 programme</title><link href="http://localhost:4000/event/bspr-ebi-2011-programme" rel="alternate" type="text/html" title="BSPR-EBI 2011 programme" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2011</id><content type="html" xml:base="http://localhost:4000/event/bspr-ebi-2011-programme">&lt;figure&gt;
-    &lt;img src=&quot;/assets/images/bspr2011s.png&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-12-12T10:07:48+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+08:00</published><updated>2018-12-11T00:00:00+08:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtu.be/Szi6Y1W3HxM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;/figure&gt;
+&lt;p&gt;Joe Biden’s welcome address to delegates of HUPO2017&lt;/p&gt;
 
-&lt;h3 id=&quot;bspr-panel-discussion&quot;&gt;&lt;a href=&quot;/assets/files/BSPR2011Panel_Update_9Aug.pdf&quot;&gt;BSPR Panel Discussion&lt;/a&gt;&lt;/h3&gt;
+&lt;iframe width=&quot;640&quot; height=&quot;360&quot; src=&quot;https://youtu.be/IUmSFLjqWaw&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;strong&gt;Registration Extended&lt;/strong&gt;: Midnight - Wednesday 29th June 2011&lt;/p&gt;
+&lt;p&gt;HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">BSPR meeting 2019</title><link href="http://localhost:4000/event/bspr-meeting-2019" rel="alternate" type="text/html" title="BSPR meeting 2019" /><published>2018-12-11T00:00:00+08:00</published><updated>2018-12-11T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2019</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2019">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 1st, 2019 to Wednesday, July 3rd, 2019&lt;br /&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; Southampton&lt;/p&gt;
 
-&lt;p&gt;Early Stage Career Investigator Award abstracts: 17th June 2011&lt;/p&gt;
-
-&lt;p&gt;Oral Communication abstracts: 17th June 2011&lt;/p&gt;
-
-&lt;p&gt;Poster abstracts: 17th June 2011&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/general-information&quot;&gt;General information&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/pre-meeting-bspr-workshop&quot;&gt;Pre-meeting BSPR Workshop&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/joint-ebi-wellcome-trust-course-on-proteomics-bioinformatics&quot;&gt;Joint EBI-Wellcome Trust Course on Proteomics&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/assets/files/BSPR_2011_Programme.pdf&quot;&gt;Final Programme&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/registration-information&quot;&gt;Registration information&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/bspr-awards-and-fellowships-2011&quot;&gt;Bursaries&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;//poster-abstract-submission&quot;&gt;Poster Abstract Submission&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/oral-communication-abstract-submission&quot;&gt;Oral Communication Abstract Submission&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/early-stage-career-investigator-award&quot;&gt;Early Stage Career Investigator Award&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/travel-information-and-bus-timetable&quot;&gt;Travel Information and Bus Timetable&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;/help-to-promote-this-meeting&quot;&gt;Help to Promote this Meeting&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Organisers&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Organising Committee&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rainer Cramer&lt;/li&gt;
-  &lt;li&gt;Mike Dunn&lt;/li&gt;
-  &lt;li&gt;Henning Hermjakob&lt;/li&gt;
-  &lt;li&gt;Kathryn Lilley&lt;/li&gt;
-  &lt;li&gt;David O’Connor&lt;/li&gt;
-  &lt;li&gt;Chris Sutton&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Programme Committee&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Rainer Cramer&lt;/li&gt;
-  &lt;li&gt;Steve Pennington&lt;/li&gt;
-  &lt;li&gt;Rolf Apweiler&lt;/li&gt;
-  &lt;li&gt;Rob Beynon&lt;/li&gt;
-  &lt;li&gt;John Timms&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Key dates&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Deadlines&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Registration Extended: Midnight - Wednesday 29th June 2011&lt;/li&gt;
-  &lt;li&gt;Submission of poster abstracts: CLOSED&lt;/li&gt;
-  &lt;li&gt;Submission of Early Stage Career Investigator Award abstracts: CLOSED&lt;/li&gt;
-  &lt;li&gt;Submission of oral communication abstracts: CLOSED&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Please send any enquiries relating to registration and abstract submission via e-mail to: registration@bspr.org&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Venue&lt;/strong&gt;
-The conference will take place at the Wellcome Trust Conference Centre (http://www.wtconference.org.uk/), located on the Wellcome Trust Genome Campus at Hinxton, near Cambridge, UK, which houses the European Bioinformatics Institute (http://www.ebi.ac.uk/), and the Wellcome Trust Sanger Institute (http://www.sanger.ac.uk/).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Accommodation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;There is a limited amount of accommodation on-site at the WTCC, so early registration for the meeting is advised. If this accommodation package is not suitable, then a list of alternative accommodation either close to Hinxton or in the Cambridge area can be obtained from Frank O’Donnell (frank@ebi.ac.uk) at the EBI. This accommodation has to be reserved directly by delegates. Read more in the registration page.&lt;/p&gt;
-
-&lt;p&gt;For enquiries relating to either registration or abstract submission please contact via email to registration@bspr.org. For all other enquiries relating to the conference please contact via email to meetings@bspr.org&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - january 2012</title><link href="http://localhost:4000/newsletters/Newsletter-january-2012/" rel="alternate" type="text/html" title="NEWSLETTER - january 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-january-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-january-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-January_2012.pdf&quot;&gt;NEWSLETTER -  January 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - January 2012</summary></entry><entry><title type="html">NEWSLETTER - March 2012</title><link href="http://localhost:4000/newsletters/Newsletter-March-2012/" rel="alternate" type="text/html" title="NEWSLETTER - March 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-March-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-March-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-March_2012.pdf&quot;&gt;NEWSLETTER -  March 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - March 2012</summary></entry><entry><title type="html">NEWSLETTER - May 2012</title><link href="http://localhost:4000/newsletters/Newsletter-May-2012/" rel="alternate" type="text/html" title="NEWSLETTER - May 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2012.pdf&quot;&gt;NEWSLETTER -  May 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2012</summary></entry><entry><title type="html">BSPR meeting 2011</title><link href="http://localhost:4000/event/bspr-meeting-2012" rel="alternate" type="text/html" title="BSPR meeting 2011" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2012</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2012">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
+&lt;p&gt;More information coming soon!&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019 Location: Southampton</summary></entry><entry><title type="html">NEWSLETTER - November 2018</title><link href="http://localhost:4000/newsletters/Newsletter-November-2018/" rel="alternate" type="text/html" title="NEWSLETTER - November 2018" /><published>2018-12-03T00:00:00+08:00</published><updated>2018-12-03T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-November-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-November-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - Nov_2018.pdf&quot;&gt;NEWSLETTER - November 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - November 2018</summary></entry><entry><title type="html">NEWSLETTER - May 2012</title><link href="http://localhost:4000/newsletters/Newsletter-May-2012/" rel="alternate" type="text/html" title="NEWSLETTER - May 2012" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2012.pdf&quot;&gt;NEWSLETTER -  May 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2012</summary></entry><entry><title type="html">BSPR meeting 2011</title><link href="http://localhost:4000/event/bspr-meeting-2012" rel="alternate" type="text/html" title="BSPR meeting 2011" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/event/BSPR-2012</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2012">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt;Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Programme for BSPR 2018&lt;/strong&gt;&lt;/p&gt;
@@ -441,4 +378,4 @@ Fax: +44 (0) 141 354 1661&lt;/p&gt;
 
 &lt;p&gt;General / Abstract Submission	-	bspr2013@mci-group.com
 Trade Exhibition / Sponsorship	-	bspr2013industry@mci-group.com
-Registration	-	bspr2013reg@mci-group.com&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - August 2013</title><link href="http://localhost:4000/newsletters/Newsletter-August-2013/" rel="alternate" type="text/html" title="NEWSLETTER - August 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-August-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-August-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter_August_2013.pdf&quot;&gt;NEWSLETTER -  August 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - August 2013</summary></entry></feed>
+Registration	-	bspr2013reg@mci-group.com&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html"></summary></entry><entry><title type="html">NEWSLETTER - August 2013</title><link href="http://localhost:4000/newsletters/Newsletter-August-2013/" rel="alternate" type="text/html" title="NEWSLETTER - August 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-August-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-August-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter_August_2013.pdf&quot;&gt;NEWSLETTER -  August 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - August 2013</summary></entry><entry><title type="html">NEWSLETTER - October 2013</title><link href="http://localhost:4000/newsletters/Newsletter-October-2013/" rel="alternate" type="text/html" title="NEWSLETTER - October 2013" /><published>2018-05-30T00:00:00+08:00</published><updated>2018-05-30T00:00:00+08:00</updated><id>http://localhost:4000/newsletters/Newsletter-October-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-October-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter_October_2013.pdf&quot;&gt;NEWSLETTER -  October 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - October 2013</summary></entry></feed>
