@@ -28,12 +28,13 @@ We were delighted to have Joe Biden, Ex-Vice President of the USA, welcome deleg
 The scientific programme was complemented by an interesting and 'only in Ireland' offering of social events and opportunities that that included the Opening Reception and the Congress Gala Evening at the iconic Guinness Storehouse.
 
 
-<iframe width="640" height="360" src="https://youtu.be/Szi6Y1W3HxM" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Szi6Y1W3HxM" frameborder="0"  allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Joe Biden's welcome address to delegates of HUPO2017
 
 
 
-<iframe width="640" height="360" src="https://youtu.be/IUmSFLjqWaw" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUmSFLjqWaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden
