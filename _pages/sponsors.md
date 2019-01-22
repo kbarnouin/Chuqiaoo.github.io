@@ -9,10 +9,10 @@ sidebar:
   nav: "docs"
 comments: true
 gallery:
-  - url: https://www.agilent.com/
+  - url: http://www.anaquant.com/
     image_path: /assets/sponsors/ANAQUANT_1.jpg
     alt: "placeholder image 1"
-  - url: http://www.anaquant.com/
+  - url: https://www.agilent.com/
     image_path: /assets/sponsors/agilent.jpg
     alt: "placeholder image 2"
   - url: http://biopharma.co.uk/
@@ -30,7 +30,7 @@ gallery:
   - url: http://www.kranalytical.co.uk/
     image_path: /assets/sponsors/kra.jpg
     alt: "placeholder image 3"
-  - url: http://www.merckgroup.com/en/index.html
+  - url: http://www.matrixscience.com/
     image_path: /assets/sponsors/Matrix_Science.png
     alt: "placeholder image 3"
   - url: http://www.merckgroup.com/en/index.html
@@ -60,7 +60,7 @@ gallery:
   - url: http://www.thermoscientific.com/en/home.html
     image_path: /assets/sponsors/Thermo Fisher Scientific_logo.jpg
     alt: "placeholder image 3"
-  - url: https://www.pharmafluidics.com/
+  - url: http://www.waters.com/
     image_path: /assets/sponsors/Waters_logo_K_web2.jpg
     alt: "placeholder image 3"
 
