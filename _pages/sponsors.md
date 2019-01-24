@@ -18,11 +18,17 @@ gallery:
   - url: http://biopharma.co.uk/
     image_path: /assets/sponsors/LOGO-BiopharmaGroup.jpg
     alt: "placeholder image 3"
+  - url: http://www.bruker.com/
+    image_path: /assets/sponsors/Bruker_logo_rgb_300dpi.png
+    alt: "placeholder image 3"
   - url: http://www.ckisotopes.com/
     image_path: /assets/sponsors/CK_Isotopes_Logo_2016.jpg
     alt: "placeholder image 3"
-  - url: http://www.bruker.com/
-    image_path: /assets/sponsors/Bruker_logo_rgb_300dpi.png
+  - url: https://www.evosep.com/
+    image_path: /assets/sponsors/evosep-logo.png
+    alt: "placeholder image 3"
+  - url: https://www.gehealthcare.co.uk/
+    image_path: /assets/sponsors/gehealthcare.png
     alt: "placeholder image 3"
   - url: http://www.ionbench.com/
     image_path: /assets/sponsors/IONBENCH_300.png
@@ -63,6 +69,7 @@ gallery:
   - url: http://www.waters.com/
     image_path: /assets/sponsors/Waters_logo_K_web2.jpg
     alt: "placeholder image 3"
+
 
 ---
 

@@ -155,7 +155,7 @@ var store = [{
         "url": "http://localhost:4000/event/bspr-meeting-2018",
         "teaser":null},{
         "title": "HUPO 2017",
-        "excerpt":"hupo2017content1.jpg  BSPR is proud to announce that will be hosting HUPO 2017 in Dublin: http://hupo2017.ie/”. ","categories": ["News"],
+        "excerpt":"hupo2017content1.jpg BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee. The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was...","categories": ["News"],
         "tags": [],
         "url": "http://localhost:4000/news/hupo-2017/",
         "teaser":null},{
