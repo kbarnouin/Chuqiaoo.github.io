@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-22T11:18:44+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;p&gt;BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-27T13:43:19+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;p&gt;BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.&lt;/p&gt;
 
 &lt;p&gt;The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to create a vibrant scientific meeting that would bring together the existing world leaders in the field of proteomics with those in allied disciplines to foster and support the development of a new generation of multi-disciplinary forward looking scientists. The conference highlighted new capabilities in advancing our knowledge of the Human Proteome to significantly enhance our understanding of health, disease and ageing to create unprecedented impact. The Congress celebrated past achievements, presented new disruptive advances in proteomics and showcased opportunities in multi-disciplinary research.&lt;/p&gt;
 
@@ -15,9 +15,108 @@
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IUmSFLjqWaw&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.</summary></entry><entry><title type="html">BSPR meeting 2019</title><link href="http://localhost:4000/event/bspr-meeting-2019" rel="alternate" type="text/html" title="BSPR meeting 2019" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/event/BSPR-2019</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2019">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 1st, 2019 to Wednesday, July 3rd, 2019&lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt; Southampton&lt;/p&gt;
+&lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&quot;https://www.solent.ac.uk/conference-centre&quot;&gt;Solent Conference Centre&lt;/a&gt;, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom.&lt;/p&gt;
 
-&lt;p&gt;More information coming soon!&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019 Location: Southampton</summary></entry><entry><title type="html">NEWSLETTER - November 2018</title><link href="http://localhost:4000/newsletters/Newsletter-November-2018/" rel="alternate" type="text/html" title="NEWSLETTER - November 2018" /><published>2018-12-03T00:00:00+00:00</published><updated>2018-12-03T00:00:00+00:00</updated><id>http://localhost:4000/newsletters/Newsletter-November-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-November-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - Nov_2018.pdf&quot;&gt;NEWSLETTER - November 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - November 2018</summary></entry><entry><title type="html">NEWSLETTER - May 2012</title><link href="http://localhost:4000/newsletters/Newsletter-May-2012/" rel="alternate" type="text/html" title="NEWSLETTER - May 2012" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2012.pdf&quot;&gt;NEWSLETTER -  May 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2012</summary></entry><entry><title type="html">BSPR meeting 2011</title><link href="http://localhost:4000/event/bspr-meeting-2012" rel="alternate" type="text/html" title="BSPR meeting 2011" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/event/BSPR-2012</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2012">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
+&lt;figure&gt;
+    &lt;img src=&quot;/assets/images/image001.jpg&quot; /&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;BSPR 2019 has 6 thematic streams:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Cellular Dynamics&lt;/li&gt;
+  &lt;li&gt;Interactomics and Functional Proteomics&lt;/li&gt;
+  &lt;li&gt;Post-translation Modifications and Chemical Modification&lt;/li&gt;
+  &lt;li&gt;Emerging Technologies&lt;/li&gt;
+  &lt;li&gt;Computational Proteomics and Big Data/Modelling&lt;/li&gt;
+  &lt;li&gt;Health and Clinical Cancer Proteomics&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Confirmed Invited Speakers&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Mike Snyder&lt;/td&gt;
+      &lt;td&gt;Stanford University, USA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Luis Mendoza&lt;/td&gt;
+      &lt;td&gt;Institute for Systems Biology, Seattle,USA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Rob Beynon&lt;/td&gt;
+      &lt;td&gt;University of Liverpool&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Angus Lamond&lt;/td&gt;
+      &lt;td&gt;University of Dundee, UK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tim Elliott&lt;/td&gt;
+      &lt;td&gt;University of Southampton &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Jyoti Choudary&lt;/td&gt;
+      &lt;td&gt;Institute of Cancer Research, UK&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Tiziana Bonaldi&lt;/td&gt;
+      &lt;td&gt;Istituto Europeo di Oncologia&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Benedikt Kessler&lt;/td&gt;
+      &lt;td&gt;University of Oxford&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Pedro Beltrao&lt;/td&gt;
+      &lt;td&gt;European Bioinformatics Institute - EMBL-EBI&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Proteomics Informatics Workshop&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The BSPR will be running a Proteomics Informatics Workshop in collaboration with Luis Mendoza from the Institute for Systems Biology (ISB), Seattle, US. The workshop is designed to introduce researchers to the ISB’s open-source software tools designed for the analysis, validation, storage and interpretation of data obtained from large-scale quantitative proteomics experiments and methods, multi-dimensional chromatography and tandem mass spectrometry.&lt;/p&gt;
+
+&lt;p&gt;Through daily lectures and tutorials, each course participant will  become proficient in the use of these tools, which comprise the Trans-Proteomic Pipeline (TPP). More information on the TPP, including software downloads can be found on the TPP Wiki page.
+The Workshop will be from Friday 28th June to 30th June at the Life Sciences building at the &lt;a href=&quot;https://www.southampton.ac.uk/&quot;&gt;University of Southampton&lt;/a&gt;. The workshop is part financed by BSPR as part of an initiative to provide training resources for its members. A nominal fee of £10 is required to cover refreshments.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Registration for BSPR 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Registration deadline – 28th June 2019&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Student BSPR member £100&lt;/li&gt;
+  &lt;li&gt;Student non-member £140&lt;/li&gt;
+  &lt;li&gt;Non-Student (Other) BSPR member £180&lt;/li&gt;
+  &lt;li&gt;Non-Student, Non-Member £240&lt;/li&gt;
+  &lt;li&gt;Conference Dinner at Harbour Hotel, Ocean Village (optional) £50&lt;/li&gt;
+  &lt;li&gt;Proteomic Informatics Workshop (optional) £85&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Evening events&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Wine Reception at the Solent Conference Centre (Monday 1st July 2019).
+Following the poster lightning talks there will be an opportunity for poster presenters, delegates and vendors to engage with colleagues over wine and canapes.&lt;/p&gt;
+
+&lt;p&gt;Conference Dinner at The Harbour Hotel in Ocean Village, Southampton. The Harbour Hotel features stunning contemporary interiors, the city’s most exciting rooftop destination in Southampton’s thriving marine culture and offers a gateway to the beautiful Solent. The charge of £50 will cover a welcome drink, a 3 course meal with wine, followed by tea/coffee. This is a fantastic opportunity to network in an informal environment and to participate in the not-to-be-missed, world famous Professor Lilley trivial pursuit quiz.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Abstract submission deadline – 28th April 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please click &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSeT53R-qykMTCna59dpISxURCurJt98CxrcJVRqJC6OxAhh_A/viewform&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Accommodation and local information&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please click &lt;a href=&quot;/bspr-2019/accommdation/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Travel Grants, Bursaries and Fellowships&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Please click &lt;a href=&quot;/bursaries-and-fellowships/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019 Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom.</summary></entry><entry><title type="html">NEWSLETTER - November 2018</title><link href="http://localhost:4000/newsletters/Newsletter-November-2018/" rel="alternate" type="text/html" title="NEWSLETTER - November 2018" /><published>2018-12-03T00:00:00+00:00</published><updated>2018-12-03T00:00:00+00:00</updated><id>http://localhost:4000/newsletters/Newsletter-November-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-November-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - Nov_2018.pdf&quot;&gt;NEWSLETTER - November 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - November 2018</summary></entry><entry><title type="html">NEWSLETTER - May 2012</title><link href="http://localhost:4000/newsletters/Newsletter-May-2012/" rel="alternate" type="text/html" title="NEWSLETTER - May 2012" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2012</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2012/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2012.pdf&quot;&gt;NEWSLETTER -  May 2012&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2012</summary></entry><entry><title type="html">BSPR meeting 2011</title><link href="http://localhost:4000/event/bspr-meeting-2012" rel="alternate" type="text/html" title="BSPR meeting 2011" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/event/BSPR-2012</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2012">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt;Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Programme for BSPR 2018&lt;/strong&gt;&lt;/p&gt;
