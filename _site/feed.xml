@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-27T13:43:19+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;p&gt;BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-02-27T17:19:56+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;p&gt;BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.&lt;/p&gt;
 
 &lt;p&gt;The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to create a vibrant scientific meeting that would bring together the existing world leaders in the field of proteomics with those in allied disciplines to foster and support the development of a new generation of multi-disciplinary forward looking scientists. The conference highlighted new capabilities in advancing our knowledge of the Human Proteome to significantly enhance our understanding of health, disease and ageing to create unprecedented impact. The Congress celebrated past achievements, presented new disruptive advances in proteomics and showcased opportunities in multi-disciplinary research.&lt;/p&gt;
 
@@ -18,7 +18,7 @@
 &lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&quot;https://www.solent.ac.uk/conference-centre&quot;&gt;Solent Conference Centre&lt;/a&gt;, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom.&lt;/p&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;/assets/images/image001.jpg&quot; /&gt;
+    &lt;img src=&quot;/assets/images/BSPR_banner_2019.PNG&quot; /&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;&lt;strong&gt;BSPR 2019 has 6 thematic streams:&lt;/strong&gt;&lt;/p&gt;
@@ -26,7 +26,7 @@
 &lt;ul&gt;
   &lt;li&gt;Cellular Dynamics&lt;/li&gt;
   &lt;li&gt;Interactomics and Functional Proteomics&lt;/li&gt;
-  &lt;li&gt;Post-translation Modifications and Chemical Modification&lt;/li&gt;
+  &lt;li&gt;Post-translational Modifications and Chemical Modification&lt;/li&gt;
   &lt;li&gt;Emerging Technologies&lt;/li&gt;
   &lt;li&gt;Computational Proteomics and Big Data/Modelling&lt;/li&gt;
   &lt;li&gt;Health and Clinical Cancer Proteomics&lt;/li&gt;
@@ -84,9 +84,9 @@
 &lt;p&gt;The BSPR will be running a Proteomics Informatics Workshop in collaboration with Luis Mendoza from the Institute for Systems Biology (ISB), Seattle, US. The workshop is designed to introduce researchers to the ISB’s open-source software tools designed for the analysis, validation, storage and interpretation of data obtained from large-scale quantitative proteomics experiments and methods, multi-dimensional chromatography and tandem mass spectrometry.&lt;/p&gt;
 
 &lt;p&gt;Through daily lectures and tutorials, each course participant will  become proficient in the use of these tools, which comprise the Trans-Proteomic Pipeline (TPP). More information on the TPP, including software downloads can be found on the TPP Wiki page.
-The Workshop will be from Friday 28th June to 30th June at the Life Sciences building at the &lt;a href=&quot;https://www.southampton.ac.uk/&quot;&gt;University of Southampton&lt;/a&gt;. The workshop is part financed by BSPR as part of an initiative to provide training resources for its members. A nominal fee of £10 is required to cover refreshments.&lt;/p&gt;
+The Workshop will be from Friday 28th June to 30th June at the Life Sciences building at the &lt;a href=&quot;https://www.southampton.ac.uk/&quot;&gt;University of Southampton&lt;/a&gt;. The workshop is part financed by BSPR as part of an initiative to provide training resources for its members.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Registration for BSPR 2019&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;http://go.soton.ac.uk/akt&quot;&gt;Registration&lt;/a&gt; for BSPR 2019&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Registration deadline – 28th June 2019&lt;/p&gt;
 
@@ -96,7 +96,10 @@ The Workshop will be from Friday 28th June to 30th June at the Life Sciences bui
   &lt;li&gt;Non-Student (Other) BSPR member £180&lt;/li&gt;
   &lt;li&gt;Non-Student, Non-Member £240&lt;/li&gt;
   &lt;li&gt;Conference Dinner at Harbour Hotel, Ocean Village (optional) £50&lt;/li&gt;
-  &lt;li&gt;Proteomic Informatics Workshop (optional) £85&lt;/li&gt;
+  &lt;li&gt;Trans-Proteomic Pipeline (TPP) Workshop (28th June – 30th June, 2019)&lt;/li&gt;
+  &lt;li&gt;Students, BSPR members  £90.00&lt;/li&gt;
+  &lt;li&gt;BSPR member  £140.00&lt;/li&gt;
+  &lt;li&gt;Non-member £250.00&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;strong&gt;Evening events&lt;/strong&gt;&lt;/p&gt;
