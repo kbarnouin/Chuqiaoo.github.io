@@ -170,7 +170,7 @@ var store = [{
         "url": "http://localhost:4000/newsletters/Newsletter-November-2018/",
         "teaser":null},{
         "title": "BSPR meeting 2019",
-        "excerpt":"Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom. IMPORTANT: Abstract submission deadline – 28th April 2019 Please click here BSPR 2019 has 6 thematic streams: Cellular Dynamics Interactomics and Functional Proteomics Post-translational Modifications and Chemical...","categories": ["Events"],
+        "excerpt":"Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom. IMPORTANT: Abstract submission deadline has been extended to the 24th May Please click here BSPR 2019 has 6 thematic streams: Cellular Dynamics Interactomics and Functional Proteomics Post-translational...","categories": ["Events"],
         "tags": [],
         "url": "http://localhost:4000/event/bspr-meeting-2019",
         "teaser":null},{
