@@ -15,7 +15,7 @@ Membership of the BSPR has many advantages (please see Membership Benefits), inc
 
 - [BSPR_Guidance_notes_on_applying_for_membership.pdf]({{site.baseurl}}/assets/files/BSPR_Guidance_notes_on_applying_for_membership.pdf)
 - [BSPR membership application form.pdf]({{site.baseurl}}/assets/files/BSPR membership app form 2018.pdf)
-- [BSPR standing order form.pdf]({{site.baseurl}}/assets/files/BSPR standing order form corporate membership.pdf)
+- [BSPR standing order form.pdf]({{site.baseurl}}/assets/files/BSPR standing order form.pdf)
 - [BSPR corporate membership application form.pdf]({{site.baseurl}}/assets/files/BSPR corporate membership application form.pdf)
 
 
