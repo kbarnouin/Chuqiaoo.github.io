@@ -39,12 +39,12 @@ gallery:
   - url: https://preomics.com/
     image_path: /assets/sponsors/preomics.png
     alt: "placeholder image 3"  
-  - url: https://www.resynbio.com/
-    image_path: /assets/sponsors/resyn.png
-    alt: "placeholder image 3"
   - url: https://www.proteomics.com/
     image_path: /assets/sponsors/proteome.png
     alt: "placeholder image 3"  
+  - url: https://www.resynbio.com/
+    image_path: /assets/sponsors/resyn.png
+    alt: "placeholder image 3"
   - url: http://sciex.com/
     image_path: /assets/sponsors/SCIEX_LOGO_RGB.jpg
     alt: "placeholder image 3"
@@ -60,6 +60,9 @@ gallery:
   - url: https://www.thistlescientific.co.uk/
     image_path: /assets/sponsors/thistl.png
     alt: "placeholder image 3"
+  - url: https://www.topomd.com/
+    image_path: /assets/sponsors/TopMD.png
+    alt: "placeholder image 3"  
   - url: http://www.waters.com/
     image_path: /assets/sponsors/Waters_logo_K_web2.jpg
     alt: "placeholder image 3"
