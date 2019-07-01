@@ -21,6 +21,9 @@ gallery:
   - url: http://www.bruker.com/
     image_path: /assets/sponsors/Bruker_logo_rgb_300dpi.png
     alt: "placeholder image 3"
+  - url: https://www.cancerresearchuk.org/
+    image_path: /assets/sponsors/cancer.png
+    alt: "placeholder image 3"  
   - url: https://www.evosep.com/
     image_path: /assets/sponsors/evosep-logo.png
     alt: "placeholder image 3"
