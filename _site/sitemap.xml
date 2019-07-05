@@ -145,6 +145,10 @@
 <lastmod>2018-12-11T00:00:00+00:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/newsletters/Newsletter-May-2019/</loc>
+<lastmod>2019-05-01T00:00:00+01:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/bspr-ebi-2010-presentations</loc>
 </url>
 <url>
@@ -386,6 +390,10 @@
 <url>
 <loc>http://localhost:4000/assets/files/BSPR%20Newsletter%20-%20March%202016.pdf</loc>
 <lastmod>2018-07-20T15:12:51+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/files/BSPR%20Newsletter%20-%20May_2019.pdf</loc>
+<lastmod>2019-07-05T17:25:59+01:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/files/BSPR%20Newsletter%20-%20Nov_2018.pdf</loc>

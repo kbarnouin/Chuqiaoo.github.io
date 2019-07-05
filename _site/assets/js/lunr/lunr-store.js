@@ -178,4 +178,9 @@ var store = [{
         "excerpt":"BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee. The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to...","categories": ["News"],
         "tags": [],
         "url": "http://localhost:4000/news/hupo-2017-world-congress/",
+        "teaser":null},{
+        "title": "NEWSLETTER - May 2019",
+        "excerpt":"NEWSLETTER - May 2019 ","categories": ["Newsletters"],
+        "tags": [],
+        "url": "http://localhost:4000/newsletters/Newsletter-May-2019/",
         "teaser":null}]
