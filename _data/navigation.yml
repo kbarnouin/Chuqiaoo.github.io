@@ -7,9 +7,9 @@ main:
   - title: About
     url:  /about
     children:
-      - title: "Board of Directors and Management Committee"
+      - title: Board of Directors and Management Committee
         url: /about/board-of-directors-trustees
-      - title: "Membership Application"
+      - title: Membership Application
         url: /about/membership/application
       - title: Membership Benefits
         url: /about/membership/benefits
@@ -35,6 +35,8 @@ main:
       url: /tessviewer
     - title: Journals
       url: /proteomics/journals
+    - title: BSPR Proteomic Map
+      url: /proteomics/map
     - title: Society links
       url: /proteomics/society-links
     - title: Job adverts
@@ -71,7 +73,9 @@ docs:
         url: /tessviewer
       - title: Journals
         url: /proteomics/journals
-      - title: "Society Links"
+      - title: BSPR Proteomic Map
+        url: /proteomics/map
+      - title: Society Links
         url: /proteomics/society-links
       - title: Job Adverts
         url: /proteomics/job-adverts
