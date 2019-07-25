@@ -139,11 +139,6 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/news/pmf-2017/",
         "teaser":null},{
-        "title": "BSPR Lecturer",
-        "excerpt":"","categories": ["News"],
-        "tags": [],
-        "url": "http://localhost:4000/news/bspr-lecturer/",
-        "teaser":null},{
         "title": "Membership renewal 2017",
         "excerpt":"","categories": ["News"],
         "tags": [],
@@ -169,18 +164,23 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/newsletters/Newsletter-November-2018/",
         "teaser":null},{
-        "title": "BSPR meeting 2019",
-        "excerpt":"Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom. IMPORTANT: Abstract submission deadline has been extended to the 24th May Please click here Programme Please click here BSPR 2019 has 6 thematic streams: Cellular Dynamics Interactomics...","categories": ["Events"],
-        "tags": [],
-        "url": "http://localhost:4000/event/bspr-meeting-2019",
-        "teaser":null},{
         "title": "HUPO 2017 World Congress",
         "excerpt":"BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee. The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to...","categories": ["News"],
         "tags": [],
         "url": "http://localhost:4000/news/hupo-2017-world-congress/",
         "teaser":null},{
+        "title": "BSPR meeting 2019",
+        "excerpt":"Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom. IMPORTANT: Abstract submission deadline has been extended to the 24th May Please click here Programme Please click here BSPR 2019 has 6 thematic streams: Cellular Dynamics Interactomics...","categories": ["Events"],
+        "tags": [],
+        "url": "http://localhost:4000/event/bspr-meeting-2019",
+        "teaser":null},{
         "title": "NEWSLETTER - May 2019",
         "excerpt":"NEWSLETTER - May 2019 ","categories": ["Newsletters"],
         "tags": [],
         "url": "http://localhost:4000/newsletters/Newsletter-May-2019/",
+        "teaser":null},{
+        "title": "BSPR Lecturer",
+        "excerpt":"We are pleased to have Professor Angus Lamond, who is a Professor of Biochemistry at the University of Dundee, as our BSPR Lecturer. Angus and his colleagues study pre-mRNA splicing, gene regulation and disease mechanisms in both human cells and model organisms. He has a long-standing interest in applying quantitative,...","categories": ["News"],
+        "tags": [],
+        "url": "http://localhost:4000/news/bspr-lecturer/",
         "teaser":null}]

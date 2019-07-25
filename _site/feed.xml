@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-08T15:04:03+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">NEWSLETTER - May 2019</title><link href="http://localhost:4000/newsletters/Newsletter-May-2019/" rel="alternate" type="text/html" title="NEWSLETTER - May 2019" /><published>2019-05-01T00:00:00+01:00</published><updated>2019-05-01T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2019</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2019/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - May_2019.pdf&quot;&gt;NEWSLETTER - May 2019&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2019</summary></entry><entry><title type="html">BSPR meeting 2019</title><link href="http://localhost:4000/event/bspr-meeting-2019" rel="alternate" type="text/html" title="BSPR meeting 2019" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/event/BSPR-2019</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2019">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 1st, 2019 to Wednesday, July 3rd, 2019&lt;br /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-25T18:38:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">British Society for Proteome Research</title><subtitle>An amazing website.</subtitle><author><name>Your Name</name></author><entry><title type="html">BSPR Lecturer</title><link href="http://localhost:4000/news/bspr-lecturer/" rel="alternate" type="text/html" title="BSPR Lecturer" /><published>2019-07-25T00:00:00+01:00</published><updated>2019-07-25T00:00:00+01:00</updated><id>http://localhost:4000/news/bspr-lecturer</id><content type="html" xml:base="http://localhost:4000/news/bspr-lecturer/">&lt;p&gt;We are pleased to have Professor Angus Lamond, who is a Professor of Biochemistry at the University of Dundee, as our BSPR Lecturer. Angus and his colleagues study pre-mRNA splicing, gene regulation and disease mechanisms in both human cells and model organisms. He has a long-standing interest in applying quantitative, mass spectrometry-based proteomics methods to characterise cell phenotypes and biological responses. Angus’ group have developed robust methods for studying cell proteomes at a multidimensional level, integrating data on protein isoform expression, subcellular localisation, post-translational modifications, protein complex formation and protein turnover. During the past 15 years Angus has also become fascinated by the challenges of analysing and integrating ‘Big Data’ generated in proteomics studies with cognate information from other omics, imaging and cellular studies. This has led Angus and his group to develop new computational tools, including the ‘Encyclopedia of Proteome Dynamics’ (EPD). This is an integrated analytics repository that provides a searchable, open access data sharing tool using advanced data science technologies.&lt;/p&gt;
+
+&lt;p&gt;As the BSPR Lecturer, Angus is presenting lectures that build on his interests in applying multidimensional proteomics and data science technologies to characterise biological systems and disease mechanisms. The lectures focus on recent data from Angus and his colleagues and collaborators studying the large set of high quality human iPS cell lines developed by the HipSci consortium (see; www.hipsci.org). This study on iPS cells derived from both healthy human donors, as well as specific disease cohorts of donors with inherited disorders, allows the characterisation of human proteomes in health and disease. The data reveal natural variations in human proteomes between healthy individuals and how the proteomic landscape is remodelled by mutations causing disease. The proteome data also have been integrated with parallel transcriptome RNA expression data and exome sequence data from the same cell lines, providing a detailed picture of how gene expression is coordinated. All of these data have been integrated within the EPD database for convenient interactive exploration, providing an example of how large, complex datasets can be integrated and shared effectively with the community.&lt;/p&gt;
+
+&lt;p&gt;Angus gave the first of his BSPR lectures at the University of St Andrews on April 24th, 2019. The lecture was entitled, “Genetic Analysis of Human iPS Cells; Generating Deep Proteomes &amp;amp; Navigating the Data Mountain”. His lectures so far are listed below. The lectures are designed to be accessible to a wide general audience and if you are interested in Angus presenting one of these lectures at your University while he is the BSPR Lecturer, please contact him at ‘ailamond@dundee.ac.uk’.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BSPR Lectures 2019&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;24th April – University of St Andrews&lt;/p&gt;
+
+&lt;p&gt;1st May – University of Cambridge&lt;/p&gt;
+
+&lt;p&gt;6th June – Barts Cancer Institute, London&lt;/p&gt;
+
+&lt;p&gt;1-3 July – BSPR Annual Conference, Southampton&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Future Lectures Scheduled include:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;25-26th Sept – SULSA Conference, Edinburgh&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">We are pleased to have Professor Angus Lamond, who is a Professor of Biochemistry at the University of Dundee, as our BSPR Lecturer. Angus and his colleagues study pre-mRNA splicing, gene regulation and disease mechanisms in both human cells and model organisms. He has a long-standing interest in applying quantitative, mass spectrometry-based proteomics methods to characterise cell phenotypes and biological responses. Angus’ group have developed robust methods for studying cell proteomes at a multidimensional level, integrating data on protein isoform expression, subcellular localisation, post-translational modifications, protein complex formation and protein turnover. During the past 15 years Angus has also become fascinated by the challenges of analysing and integrating ‘Big Data’ generated in proteomics studies with cognate information from other omics, imaging and cellular studies. This has led Angus and his group to develop new computational tools, including the ‘Encyclopedia of Proteome Dynamics’ (EPD). This is an integrated analytics repository that provides a searchable, open access data sharing tool using advanced data science technologies.</summary></entry><entry><title type="html">NEWSLETTER - May 2019</title><link href="http://localhost:4000/newsletters/Newsletter-May-2019/" rel="alternate" type="text/html" title="NEWSLETTER - May 2019" /><published>2019-05-01T00:00:00+01:00</published><updated>2019-05-01T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2019</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2019/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - May_2019.pdf&quot;&gt;NEWSLETTER - May 2019&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2019</summary></entry><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;p&gt;BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.&lt;/p&gt;
+
+&lt;p&gt;The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to create a vibrant scientific meeting that would bring together the existing world leaders in the field of proteomics with those in allied disciplines to foster and support the development of a new generation of multi-disciplinary forward looking scientists. The conference highlighted new capabilities in advancing our knowledge of the Human Proteome to significantly enhance our understanding of health, disease and ageing to create unprecedented impact. The Congress celebrated past achievements, presented new disruptive advances in proteomics and showcased opportunities in multi-disciplinary research.&lt;/p&gt;
+
+&lt;p&gt;The programme included sessions covering each of the twelve current HUPO Initiatives and the Biology/Disease driven Human Proteome Project (HPP). In recognition of the increasing role of proteomics and complementary ‘omics technologies in personalised medicine there was special focus on the application of proteomics to disease diagnosis, therapeutic protein characterisation and drug development as well as the analysis of integrated proteomic data. The presence of world-leading major international pharmaceutical, biopharmaceutical and information technology companies provided opportunity for cross-discipline information exchange and personal networking.&lt;/p&gt;
+
+&lt;p&gt;We were delighted to have Joe Biden, Ex-Vice President of the USA, welcome delegates and inform on progress of the Cancer Moonshot at the Gala Dinner (see Videos below). It was also pleasure to hear from Prof Leroy Hood on the implementation of omics technologies in P4 medicine in the Opening Plenary. Other exciting speakers included: Ruedi Aebersold; Ben Cravatt; Albert Heck; Joshua LaBaer, Matthias Mann; Lennart Martens; Rob Moritz; Mike Snyder and Matthias Uhlen.&lt;/p&gt;
+
+&lt;p&gt;The scientific programme was complemented by an interesting and ‘only in Ireland’ offering of social events and opportunities that that included the Opening Reception and the Congress Gala Evening at the iconic Guinness Storehouse.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Szi6Y1W3HxM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Joe Biden’s welcome address to delegates of HUPO2017&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IUmSFLjqWaw&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.</summary></entry><entry><title type="html">BSPR meeting 2019</title><link href="http://localhost:4000/event/bspr-meeting-2019" rel="alternate" type="text/html" title="BSPR meeting 2019" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/event/BSPR-2019</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2019">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 1st, 2019 to Wednesday, July 3rd, 2019&lt;br /&gt;
 &lt;strong&gt;Location:&lt;/strong&gt; &lt;a href=&quot;https://www.solent.ac.uk/conference-centre&quot;&gt;Solent Conference Centre&lt;/a&gt;, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom.&lt;/p&gt;
 
 &lt;figure&gt;
@@ -135,162 +169,7 @@ Following the poster lightning talks there will be an opportunity for poster pre
 
 &lt;p&gt;&lt;strong&gt;Travel Grants, Bursaries and Fellowships&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;Please click &lt;a href=&quot;/bursaries-and-fellowships/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019 Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom.</summary></entry><entry><title type="html">HUPO 2017 World Congress</title><link href="http://localhost:4000/news/hupo-2017-world-congress/" rel="alternate" type="text/html" title="HUPO 2017 World Congress" /><published>2018-12-11T00:00:00+00:00</published><updated>2018-12-11T00:00:00+00:00</updated><id>http://localhost:4000/news/hupo-2017-world-congress</id><content type="html" xml:base="http://localhost:4000/news/hupo-2017-world-congress/">&lt;p&gt;BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.&lt;/p&gt;
-
-&lt;p&gt;The HUPO2017 Congress was focussed on the theme of “Integrated Proteomics for Healthcare Systems”. Our vision was to create a vibrant scientific meeting that would bring together the existing world leaders in the field of proteomics with those in allied disciplines to foster and support the development of a new generation of multi-disciplinary forward looking scientists. The conference highlighted new capabilities in advancing our knowledge of the Human Proteome to significantly enhance our understanding of health, disease and ageing to create unprecedented impact. The Congress celebrated past achievements, presented new disruptive advances in proteomics and showcased opportunities in multi-disciplinary research.&lt;/p&gt;
-
-&lt;p&gt;The programme included sessions covering each of the twelve current HUPO Initiatives and the Biology/Disease driven Human Proteome Project (HPP). In recognition of the increasing role of proteomics and complementary ‘omics technologies in personalised medicine there was special focus on the application of proteomics to disease diagnosis, therapeutic protein characterisation and drug development as well as the analysis of integrated proteomic data. The presence of world-leading major international pharmaceutical, biopharmaceutical and information technology companies provided opportunity for cross-discipline information exchange and personal networking.&lt;/p&gt;
-
-&lt;p&gt;We were delighted to have Joe Biden, Ex-Vice President of the USA, welcome delegates and inform on progress of the Cancer Moonshot at the Gala Dinner (see Videos below). It was also pleasure to hear from Prof Leroy Hood on the implementation of omics technologies in P4 medicine in the Opening Plenary. Other exciting speakers included: Ruedi Aebersold; Ben Cravatt; Albert Heck; Joshua LaBaer, Matthias Mann; Lennart Martens; Rob Moritz; Mike Snyder and Matthias Uhlen.&lt;/p&gt;
-
-&lt;p&gt;The scientific programme was complemented by an interesting and ‘only in Ireland’ offering of social events and opportunities that that included the Opening Reception and the Congress Gala Evening at the iconic Guinness Storehouse.&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Szi6Y1W3HxM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Joe Biden’s welcome address to delegates of HUPO2017&lt;/p&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IUmSFLjqWaw&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;HUPO 2017 Global Leadership Gala with 47th Vice President of the United States, Joseph R. Biden&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">BSPR was proud to host the 2017 Human Proteome Organisation World Congress in Dublin in September 2017, held at the Dublin Convention Centre. Steve Pennington was chairman of the local organising committee.</summary></entry><entry><title type="html">NEWSLETTER - November 2018</title><link href="http://localhost:4000/newsletters/Newsletter-November-2018/" rel="alternate" type="text/html" title="NEWSLETTER - November 2018" /><published>2018-12-03T00:00:00+00:00</published><updated>2018-12-03T00:00:00+00:00</updated><id>http://localhost:4000/newsletters/Newsletter-November-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-November-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - Nov_2018.pdf&quot;&gt;NEWSLETTER - November 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - November 2018</summary></entry><entry><title type="html">BSPR meeting 2011</title><link href="http://localhost:4000/event/bspr-meeting-2012" rel="alternate" type="text/html" title="BSPR meeting 2011" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/event/BSPR-2012</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2012">&lt;p&gt;&lt;strong&gt;Data:&lt;/strong&gt;Monday, July 9, 2018 to Wednesday, July 11, 2018&lt;br /&gt;
-&lt;strong&gt;Location:&lt;/strong&gt;Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Programme for BSPR 2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please click &lt;a href=&quot;/assets/files/BSPR 2018 programme final 15-06-18.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Plenary speakers&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Daniel Chan&lt;/td&gt;
-      &lt;td&gt;Johns Hopkins School of Medicine, USA&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Chuna Ram Choudhary&lt;/td&gt;
-      &lt;td&gt;University of Copenhagen, Denmark&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Julia Chamot-Rooke&lt;/td&gt;
-      &lt;td&gt;Institut Pasteur, France&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Angus Lamond&lt;/td&gt;
-      &lt;td&gt;University of Dundee, UK&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Keynote Speakers&lt;/th&gt;
-      &lt;th&gt; &lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Claire Eyers&lt;/td&gt;
-      &lt;td&gt;University of Liverpool, UK&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Paul Skipp&lt;/td&gt;
-      &lt;td&gt;University of Southampton, UK&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Kathryn Lilley&lt;/td&gt;
-      &lt;td&gt;University of Cambridge, UK&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Ben Collins&lt;/td&gt;
-      &lt;td&gt;ETH, Zurich, Switzerland&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Emøke Bendixen&lt;/td&gt;
-      &lt;td&gt;University of Aarhus, Denmark&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Stephen Gordon&lt;/td&gt;
-      &lt;td&gt;UCD Conway Institute, Ireland&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Henning Hermjakob&lt;/td&gt;
-      &lt;td&gt;EMBL-EBI, Cambridge, UK&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Paul Cutler&lt;/td&gt;
-      &lt;td&gt;UCB Pharma, UK&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/assets/files/BSPR 2018 data science workshop v 2.pdf&quot;&gt;Data Research Workshop&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The BSPR will be running a Data Research Workshop designed to introduce researchers to software and statistical methods to support proteomics data interpretation. The Workshop will be on Sunday 8th July from 14.00 to 18.00 in Forster Suite, The Midland Hotel, Bradford and run by Dr Ben Collins (ETH Zurich) and Dr Alistair Bailey (University of Southampton). The workshop is financed by BSPR as part of an initiative to provide training resources for its members. A nominal fee of £10 is required to cover refreshments.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://estore.bradford.ac.uk/product-catalogue/faculty-of-life-sciences/conferencesworkshops/the-british-society-for-proteome-research-annual-scientific-meeting-2018&quot;&gt;Registration&lt;/a&gt; for BSPR 2018&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Registration deadline – 6th July 2018&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Student BSPR member £80&lt;/li&gt;
-  &lt;li&gt;Student non-member £140&lt;/li&gt;
-  &lt;li&gt;Non-Student (Other) BSPR member £180&lt;/li&gt;
-  &lt;li&gt;Non-Student, Non-Member £240&lt;/li&gt;
-  &lt;li&gt;Wine Reception at Cartwright Hall (optional) £10&lt;/li&gt;
-  &lt;li&gt;Conference Dinner at Midland Hotel (optional) £40&lt;/li&gt;
-  &lt;li&gt;Data Research Workshop (optional) £10&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Please note for registration&lt;/strong&gt;: You can only add one item to your basket at a time. Therefore, to add the Wine Reception and Conference Dinner to the shopping basket use the following instruction:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Select the item, and click on add to basket.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Complete the questionnaire and then click next.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Click on Continue shopping&lt;/strong&gt;, this will return you to the home page.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Type in &lt;strong&gt;“BSPR”&lt;/strong&gt; in the search field, click on the link that pops up and it will return you to the BSPR store.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;You will now be able to add another item to your basket.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;strong&gt;Evening events&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Wine Reception at &lt;a href=&quot;http://www.bradfordmuseums.org/venues/cartwright-hall-art-gallery&quot;&gt;Cartwright Hall Art Gallery&lt;/a&gt;. Cartwright Hall Art Gallery is located in Lister Park, which was voted Britain’s Best Park in 2006. Cartwright Hall hosts an exhibition of art work and prints from local artists, including a gallery dedicated to Bradford-born, internationally renowned David Hockney. The charge of £10 covers transport to and from Cartwright Hall, back to the University, access to the Art Gallery, snacks and drinks.&lt;/p&gt;
-
-&lt;p&gt;Conference Dinner at &lt;a href=&quot;http://www.peelhotels.co.uk/hotels/midland-hotel-bradford-yorkshire-england/&quot;&gt;The Midland Hotel&lt;/a&gt;. The Midland Hotel is one of the oldest hotels in Bradford, with elegant ballrooms suitable for hosting our Conference Dinner. The charge of £40 will cover a 3 course meal and wine. This is a fantastic opportunity to network in an informal environment and to participate in the not-to-be-missed, world famous Professor Lilley trivial pursuit quiz. The Midland Hotel is also one of the main hotels for accommodation for the BSPR 2018 meeting offering a discounted price of £65, including B&amp;amp;B, single occupancy (see Accommodation).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Abstract Submission&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Abstract submission deadline – 1st July 2018&lt;/p&gt;
-
-&lt;p&gt;Please click &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfvLqcHIxJFTK2tfVd1JEz0cq8TqWoT0CD3lzznFPQqBmHjrA/viewform?c=0&amp;amp;w=1&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Accommodation&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please click here.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Travel Grants, Bursaries and Fellowships&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Please click here.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;/sponsors/&quot;&gt;Sponsors&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The BSPR Annual Scientific meeting would not be a success without the dedicated support of our sponsors and exhibitors, who play an essential role in dissemination of state-of-the-art proteomics research.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR 2018 poster invited speakers Apr.pdf&quot;&gt;BSPR 2018 poster&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 9, 2018 to Wednesday, July 11, 2018 Location:Norcroft Conference Centre, University of Bradford, Bradford, West Yorkshire, BD7 1DP, United Kingdom</summary></entry><entry><title type="html">NEWSLETTER - January 2013</title><link href="http://localhost:4000/newsletters/Newsletter-January-2013/" rel="alternate" type="text/html" title="NEWSLETTER - January 2013" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-January-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-January-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-Jan_2013.pdf&quot;&gt;NEWSLETTER -  January 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - January 2013</summary></entry><entry><title type="html">NEWSLETTER - May 2013</title><link href="http://localhost:4000/newsletters/Newsletter-May-2013/" rel="alternate" type="text/html" title="NEWSLETTER - May 2013" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2013.pdf&quot;&gt;NEWSLETTER -  May 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2013</summary></entry><entry><title type="html">BSPR meeting 2013</title><link href="http://localhost:4000/event/bspr-meeting-2013" rel="alternate" type="text/html" title="BSPR meeting 2013" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/event/BSPR-2013</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2013">&lt;figure&gt;
+&lt;p&gt;Please click &lt;a href=&quot;/bursaries-and-fellowships/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">Data:Monday, July 1st, 2019 to Wednesday, July 3rd, 2019 Location: Solent Conference Centre, Southampton Solent University, East Park Terrace, Southampton SO14 0YN. United Kingdom.</summary></entry><entry><title type="html">NEWSLETTER - November 2018</title><link href="http://localhost:4000/newsletters/Newsletter-November-2018/" rel="alternate" type="text/html" title="NEWSLETTER - November 2018" /><published>2018-12-03T00:00:00+00:00</published><updated>2018-12-03T00:00:00+00:00</updated><id>http://localhost:4000/newsletters/Newsletter-November-2018</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-November-2018/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR Newsletter - Nov_2018.pdf&quot;&gt;NEWSLETTER - November 2018&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - November 2018</summary></entry><entry><title type="html">NEWSLETTER - January 2013</title><link href="http://localhost:4000/newsletters/Newsletter-January-2013/" rel="alternate" type="text/html" title="NEWSLETTER - January 2013" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-January-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-January-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-Jan_2013.pdf&quot;&gt;NEWSLETTER -  January 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - January 2013</summary></entry><entry><title type="html">NEWSLETTER - May 2013</title><link href="http://localhost:4000/newsletters/Newsletter-May-2013/" rel="alternate" type="text/html" title="NEWSLETTER - May 2013" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/newsletters/Newsletter-May-2013</id><content type="html" xml:base="http://localhost:4000/newsletters/Newsletter-May-2013/">&lt;p&gt;&lt;a href=&quot;/assets/files/BSPR_Newsletter-May_2013.pdf&quot;&gt;NEWSLETTER -  May 2013&lt;/a&gt;&lt;/p&gt;</content><author><name>Your Name</name></author><summary type="html">NEWSLETTER - May 2013</summary></entry><entry><title type="html">BSPR meeting 2013</title><link href="http://localhost:4000/event/bspr-meeting-2013" rel="alternate" type="text/html" title="BSPR meeting 2013" /><published>2018-05-30T00:00:00+01:00</published><updated>2018-05-30T00:00:00+01:00</updated><id>http://localhost:4000/event/BSPR-2013</id><content type="html" xml:base="http://localhost:4000/event/bspr-meeting-2013">&lt;figure&gt;
     &lt;img src=&quot;/assets/images/bspr-meeting-2013.png&quot; /&gt;
 
 &lt;/figure&gt;
