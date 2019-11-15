@@ -11,7 +11,7 @@ sidebar:
 ---
 
 
-Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs or technical staff. For the BSPR conference 2019 in Southampton (1-3 July 2019) we will offer **ten student travel bursaries and two MJ Dunn Fellowships**. We also offer bursaries for students and technical staff to attend other proteomics-related conferences of their choice.
+Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff. For the BSPR conference 2020 in Oxford (6-8 July 2020) we will offer **ten student travel bursaries and two MJ Dunn Fellowships**. We also offer bursaries for students and technical staff to attend other proteomics-related conferences of their choice. Only one bursary will be awarded per person each calendar year.
 
 
 **Student and technical staff Bursaries**
