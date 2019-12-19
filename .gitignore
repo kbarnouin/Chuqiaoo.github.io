@@ -1,0 +1,36 @@
+# intelliJ idea git ignore
+*.iml
+.idea
+
+# eclipse specific git ignore
+*.pydevproject
+.project
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
+
+# Custom
+ReactomeInteractorsCore.log
+
+#Header Footer
+footer.jsp
+header.jsp
+
+#Execution time file
+test.txt
+
+*.lic
+*.lic.xml
+
+*.log
+*.DS_Store
+*.sass-cache
