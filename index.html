@@ -5,10 +5,11 @@ author_profile: true
 ---
 
 <figure>
-   <img src="{{ site.baseurl }}/assets/images/BSPR_banner_2020.png" alt="this is a placeholder image">
+    <a href="https://www2.bioch.ox.ac.uk/bspr2020/">
+        <img src="{{ site.baseurl }}/assets/images/BSPR_banner_2020.png" alt="this is a placeholder image">
+    </a>
 
 </figure>
-
 
 
 <span>The objectives of the British Society for Proteome Research (BSPR) are to advance the science of proteomics and to promote the study and research work in this and related areas for the benefit of all.</span>
@@ -27,7 +28,7 @@ author_profile: true
         <div class="archive__item">
 
             <!--<div class="archive__item-teaser">-->
-                <!--<img src="/bspr/assets/images/mm-feature.png" alt="customizable">-->
+            <!--<img src="/bspr/assets/images/mm-feature.png" alt="customizable">-->
             <!--</div>-->
             <div class="archive__item-body">
 
@@ -35,8 +36,8 @@ author_profile: true
                 <div class="archive__item-excerpt">
                     <p>
                         {% for post in site.categories.Events limit:3 %}
-                         <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-                        {% endfor %}
+                    <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
                     </p>
                 </div>
                 <p><a href="{{site.baseurl}}/events" class="btn btn--primary">More</a></p>
@@ -45,7 +46,7 @@ author_profile: true
                 <h2 class="archive__item-title">Proteomics Events</h2>
                 <div class="archive__item-excerpt">
                     <p>
-                      {% include tess.html %}
+                        {% include tess.html %}
                     </p>
 
                 </div>
@@ -60,16 +61,16 @@ author_profile: true
         <div class="archive__item">
 
             <!--<div class="archive__item-teaser">-->
-                <!--<img src="/bspr/assets/images/mm-feature.png" alt="fully responsive">-->
+            <!--<img src="/bspr/assets/images/mm-feature.png" alt="fully responsive">-->
             <!--</div>-->
 
             <div class="archive__item-body">
 
                 <!--<h2 class="archive__item-title">BSPR Proteomic Map</h2>-->
                 <!--<div class="archive__item-excerpt">-->
-                    <!--<p>-->
-                        <!--The map displays proteomic research and service groups in industry and academia. Please use this map to find collaborators, expertise, or take a look at the current research.-->
-                    <!--</p>-->
+                <!--<p>-->
+                <!--The map displays proteomic research and service groups in industry and academia. Please use this map to find collaborators, expertise, or take a look at the current research.-->
+                <!--</p>-->
 
                 <!--</div>-->
                 <!--<p><a href="{{site.baseurl}}/proteomics/map" class="btn btn&#45;&#45;primary">More</a></p>-->
@@ -79,8 +80,8 @@ author_profile: true
                 <div class="archive__item-excerpt">
                     <p>
                         {% for post in site.categories.News limit:5 %}
-                          <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-                        {% endfor %}
+                    <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
                     </p>
 
                 </div>
@@ -91,9 +92,9 @@ author_profile: true
                 <h2 class="archive__item-title">BSPR Newsletters</h2>
                 <div class="archive__item-excerpt">
                     <p>
-                {% for post in site.categories.Newsletters limit:5 %}
-                <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}
+                        {% for post in site.categories.Newsletters limit:5 %}
+                    <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+                    {% endfor %}
                     </p>
 
                 </div>

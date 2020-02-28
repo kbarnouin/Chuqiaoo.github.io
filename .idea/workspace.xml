@@ -1,7 +1,97 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7ee1eb-1532-4f88-8cae-bacee2051c2c" name="Default" comment="update bursaries page" />
+    <list default="true" id="2c7ee1eb-1532-4f88-8cae-bacee2051c2c" name="Default" comment="update bursaries page">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/board-of-directors-trustees.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/board-of-directors-trustees.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/membership/application.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/membership/application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/membership/benefits.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/membership/benefits.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/files/BSPR standing order form.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-2017-bursaries-and-fellowships.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-2017-bursaries-and-fellowships.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-2018-bursaries-and-fellowships.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-2018-bursaries-and-fellowships.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-2018-photos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-2018-photos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-2019/accommdation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-2019/accommdation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-awards-and-fellowships-2010.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-awards-and-fellowships-2010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-awards-and-fellowships-2011.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-awards-and-fellowships-2011.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-awards-and-fellowships-2013.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-awards-and-fellowships-2013.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-bursaries-2015.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-bursaries-2015.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-bursaries-2016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-bursaries-2016.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-ebi-2010-presentations.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-ebi-2010-presentations.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-lecturer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-lecturer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-lectureship-2010.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-lectureship-2010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bspr-lectureship-2011.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bspr-lectureship-2011.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bursaries-and-fellowships/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bursaries-and-fellowships/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/early-stage-career-investigator-award.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/early-stage-career-investigator-award.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-ebi-2010-programme.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-ebi-2010-programme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-ebi-2011-programme.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-ebi-2011-programme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2012.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2012.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2013.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2013.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2014.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2014.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2015.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2015.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2016.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2016.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2018.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2018.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/event/bspr-meeting-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/event/bspr-meeting-2019.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/events/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/general-information.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/general-information.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/help-to-promote-this-meeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/help-to-promote-this-meeting.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/joint-ebi-wellcome-trust-course-on-proteomics-bioinformatics.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/joint-ebi-wellcome-trust-course-on-proteomics-bioinformatics.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/membership-renewal-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/membership-renewal-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/bmss-2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/bmss-2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/bspr-lecturer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/bspr-lecturer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/hupo-2017-world-congress/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/hupo-2017-world-congress/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/hupo-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/hupo-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/membership-renewal-2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/membership-renewal-2016/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/membership-renewal-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/membership-renewal-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/pmf-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/pmf-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-April-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-April-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-August-2013/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-August-2013/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-August-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-August-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-December-2014/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-December-2014/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-February-2014/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-February-2014/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-February-2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-February-2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2013/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2013/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2014/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2014/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2016/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-January-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2012/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2012/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2015/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2015/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2016/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2016/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2017/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-March-2017/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2012/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2012/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2013/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2013/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2015/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2015/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2019/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-May-2019/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-November-2018/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-November-2018/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-October-2013/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-October-2013/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/Newsletter-january-2012/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/Newsletter-january-2012/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/newsletters/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/newsletters/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/oral-communication-abstract-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/oral-communication-abstract-submission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/page8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poster-abstract-submission-2010.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poster-abstract-submission-2010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/poster-abstract-submission.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/poster-abstract-submission.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/pre-meeting-bspr-workshop.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/pre-meeting-bspr-workshop.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/proteomics/job-adverts.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proteomics/job-adverts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/proteomics/journals.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proteomics/journals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/proteomics/map.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proteomics/map.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/proteomics/society-links.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/proteomics/society-links.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/registration-information.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/registration-information.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sponsors/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sponsors/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/tessviewer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/tessviewer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/travel-information-and-bus-timetable.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/travel-information-and-bus-timetable.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -378,6 +468,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update bursaries page" />
     <MESSAGE value="add gitignore file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add gitignore file" />
+    <MESSAGE value="add sponsors" />
+    <option name="LAST_COMMIT_MESSAGE" value="add sponsors" />
   </component>
 </project>
