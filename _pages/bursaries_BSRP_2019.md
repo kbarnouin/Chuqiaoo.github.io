@@ -11,20 +11,11 @@ sidebar:
 ---
 
 
-Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff. For the BSPR conference 2020 in Oxford (6-8 July 2020) we will offer **ten student travel bursaries and two MJ Dunn Fellowships**. We also offer bursaries for students and technical staff to attend other proteomics-related conferences of their choice. Only one bursary will be awarded per person each calendar year.
+**Bursaries and fellowships during COVID-19**
 
+Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences or workshops. During the COVID-19 pandemic, most face-to-face conferences have been canceled and several of them have moved them on-line. The BSPR has therefore decided to offer bursaries (up to £250) for students, technical staff, and post-docs to attend virtual proteomics-related conferences and workshops that have a registration fee. Only one bursary will be awarded per person each calendar year.
 
-**Student and technical staff Bursaries**
-
-Students (MSc and Ph.D.) and technical staff awarded a bursary will receive £250 to help cover meeting registration, accommodation and travel expenses for the BSPR 2019 or another proteomics conference such as HUPO. 
-
-To apply, please send a brief CV, a statement saying why you wish to attend the meeting and an abstract of the work that you plan to present to Karin Barnouin (kbarnouin@bioapicem.com) and John Timms (john.timms@ucl.ac.uk). To apply for BSPR 2019 bursary, please apply no later than Monday 27th May 2019. Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
-
-**MJ Dunn Fellowships**
-
-MJ Dunn Fellowship awards will be given to post-docs to cover registration, accommodation and travel expenses for the BSPR 2019 conference. Applicants must be within 6 years of completing their Ph.D. and be paid up members of the BSPR. 
-
-To apply, please send a brief CV together with a statement saying why you wish to attend the meeting, including an abstract of the work that you plan to present to Karin Barnouin (kbarnouin@bioapicem.com)  and John Timms (john.timms@ucl.ac.uk) no later than 27th May 2019. Applicants must be within six years of completing their Ph.D. and be paid-up members of the BSPR. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s Newsletter and webpages.
+To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (kbarnouin@bioapicem.com) and John Timms (john.timms@ucl.ac.uk). Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
 
 
 
