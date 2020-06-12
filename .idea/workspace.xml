@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c7ee1eb-1532-4f88-8cae-bacee2051c2c" name="Default" comment="update bursaries page during covid-19">
+    <list default="true" id="2c7ee1eb-1532-4f88-8cae-bacee2051c2c" name="Default" comment="update bursaries page">
+      <change afterPath="$PROJECT_DIR$/_site/assets/files/BSPR standing order form-200108.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/bursaries_BSRP_2019.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/bursaries_BSRP_2019.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/bursaries-and-fellowships/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bursaries-and-fellowships/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-store.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/js/lunr/lunr-store.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/news/bspr-lecturer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/news/bspr-lecturer/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page3/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page4/index.html" afterDir="false" />
@@ -14,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/_site/page6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page6/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page7/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/page8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/page8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,11 +50,12 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_posts" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/_pages" />
       <recent name="$PROJECT_DIR$/_includes" />
