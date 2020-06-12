@@ -34,3 +34,10 @@ test.txt
 *.log
 *.DS_Store
 *.sass-cache
+
+# Jekyll stuff
+/_site/
+_site/
+.jekyll-metadata
+Gemfile.lock
+.DS_Store
