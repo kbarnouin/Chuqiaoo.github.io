@@ -38,7 +38,6 @@ test.txt
 # Jekyll stuff
 /_site/
 _site/
-_site
 .jekyll-metadata
 Gemfile.lock
 .DS_Store
