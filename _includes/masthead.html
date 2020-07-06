@@ -1,0 +1,58 @@
+<!--import dropdown menu library files-->
+<head>
+
+    <link href="{{ site.baseurl }}/assets/css/toggle-nav.css" rel="stylesheet">
+    <!--<link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,600' rel='stylesheet' type='text/css'>-->
+    <script src="https://code.jquery.com/jquery-3.1.0.slim.min.js"></script>
+    <script language="JavaScript" src="{{ site.baseurl }}/assets/js/toggle-nav.js" type="text/javascript"></script>
+</head>
+
+<div class="masthead">
+    <div class="masthead__inner-wrap">
+        <div class="masthead__menu">
+            <!--rewrite the nav template -->
+            <a href="#menu" class="menu-link active"><span></span> Menu</a>
+
+            <nav id="site-nav" class="greedy-nav">
+                <!--custom code by chuqiao to add logo instead of txt-->
+                <a class="site-title" href="{{ '/' | relative_url }}"><img src="{{ site.baseurl }}/assets/images/bspr_logo_100.jpg"></a>
+                <span class ="site-title">British Society for Proteome Research</span>
+
+            </nav>
+
+            <!--<a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>-->
+            <nav id="menu" class="menu">
+                <ul class="visible-links">
+
+                    {% for item in site.data.navigation.main %}
+                    <li class="menu-item-{{ loop.index }}">
+                        <a href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a><span class="has-subnav">&#x25BC;</span>
+                        {% if item.children %}
+                        <ul class="sub-menu">
+                            {% for item in item.children %}
+                            <li class="menu-item-{{ loop.index }}">
+                                <a href="{{ site.baseurl }}{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                        {% endif %}
+                    </li>
+                    {% endfor %}
+
+                </ul>
+                <!--{% if site.search == true %}-->
+                <!--<button class="search__toggle" type="button">-->
+                <!--<svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">-->
+                <!--<path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>-->
+                <!--</svg>-->
+                <!--</button>-->
+                <!--{% endif %}-->
+                <!--<button class="greedy-nav__toggle hidden" type="button">-->
+                <!--<span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</span>-->
+                <!--<div class="navicon"></div>-->
+                <!--</button>-->
+                <!--<ul class="hidden-links hidden"></ul>-->
+            </nav>
+        </div>
+    </div>
+</div>

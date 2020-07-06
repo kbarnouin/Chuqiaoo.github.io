@@ -1,0 +1,92 @@
+# main links
+main:
+
+  - url: /
+    title: Home
+
+  - title: About
+    url:  /about
+    children:
+      - title: Board of Directors and Management Committee
+        url: /about/board-of-directors-trustees
+      - title: Membership Application
+        url: /about/membership/application
+      - title: Membership Benefits
+        url: /about/membership/benefits
+
+
+  - title: Activities
+    url: /#
+    children:
+    - title: BSPR Annual Meetings
+      url: /events
+    - title: BSPR Lecturer
+      url: /news/bspr-lecturer/
+    - title: Membership Renewal 2017
+      url: /membership-renewal-2017/
+    - title: BSPR Newsletters
+      url: /newsletters/
+
+
+  - title: Proteomics
+    url: /#
+    children:
+    - title: Events
+      url: /tessviewer
+    - title: Journals
+      url: /proteomics/journals
+    - title: BSPR Proteomic Map
+      url: /proteomics/map
+    - title: Society links
+      url: /proteomics/society-links
+    - title: Job adverts
+      url: /proteomics/job-adverts
+
+
+  - url: /bursaries-and-fellowships/
+    title: BSPR Bursaries and Fellowships
+
+  - url: /sponsors/
+    title: Sponsors
+
+
+  - url: /contact
+    title: Contact
+
+
+
+
+
+
+docs:
+  - title: About
+    children:
+      - title: Board of Directors and Management Committee
+        url: /about/board-of-directors-trustees
+      - title: Membership Application
+        url: /about/membership/application
+      - title: "Membership Benefits"
+        url: /about/membership/benefits
+  - title: Proteomics
+    children:
+      - title: Events
+        url: /tessviewer
+      - title: Journals
+        url: /proteomics/journals
+      - title: BSPR Proteomic Map
+        url: /proteomics/map
+      - title: Society Links
+        url: /proteomics/society-links
+      - title: Job Adverts
+        url: /proteomics/job-adverts
+
+  - title: Activities
+    children:
+      - title: BSPR Annual Meetings
+        url: /events/
+      - title: BSPR Lecturer
+        url: /bspr-lecturer/
+      - title: Membership Renewal 2017
+        url: /membership-renewal-2017/
+      - title: BSPR Newsletters
+        url: /newsletters/
