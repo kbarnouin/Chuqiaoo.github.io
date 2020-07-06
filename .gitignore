@@ -36,8 +36,7 @@ test.txt
 *.sass-cache
 
 # Jekyll stuff
-/_site/
-_site/
+_site
 .jekyll-metadata
 Gemfile.lock
 .DS_Store
