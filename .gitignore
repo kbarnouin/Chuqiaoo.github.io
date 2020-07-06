@@ -35,20 +35,10 @@ test.txt
 *.DS_Store
 *.sass-cache
 
-_site
-.DS_Store
-.jekyll
-.bundle
-.sass-cache
-Gemfile
-Gemfile.lock
-node_modules
-package.json
 
 # Jekyll stuff
-/_site/
-_site/
-.sass-cache/
+_site
 .jekyll-metadata
-/.sass-cache/
+Gemfile.lock
+.DS_Store
 
