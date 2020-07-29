@@ -31,7 +31,7 @@ comments: true
 | **Josie Beeley**| **Roz Jenkins**|
 | University of Glasgow<br>Jarrett Building<br>Garscube Estate<br>Bearsden Road<br>Glasgow<br>G61 1QH<br>United Kingdom|University of Liverpool<br>Institute of Translational Medicine<br>Crown Street<br>Liverpool<br>L69 3BX<br> United Kingdom|
 | **Sara Zanivan**| **Karin Barnouin**|
-|CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|72 Dunelm Grove<br> London<br> SE27 9JZ<br> United Kingdom|
+|CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
 | **Harry Whitwell**|**Rob Beynon**|
 |Research Associate <br>Department of Chemical Engineering<br>Faculty of Engineering<br> Imperial College London <br>London <br>United Kingdom| Institute of Integrative Biology<br>University of Liverpool <br> United Kingdom|
 
