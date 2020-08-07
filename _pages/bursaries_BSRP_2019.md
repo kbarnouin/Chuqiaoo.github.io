@@ -18,7 +18,7 @@ Several bursaries and fellowships are awarded each year to BSPR members that are
 To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (kbarnouin@bioapicem.com) and John Timms (john.timms@ucl.ac.uk). Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
 
 
-
+- [BSPR 2019 Bursaries and Fellowships]({{site.baseurl}}/bspr-2019-bursaries-and-fellowships)
 - [BSPR 2018 Bursaries and Fellowships]({{site.baseurl}}/bspr-2018-bursaries-and-fellowships)
 - [BSPR 2017 Bursaries and Fellowships]({{site.baseurl}}/bspr-2017-bursaries-and-fellowships)
 - [BSPR Bursaries 2016]({{site.baseurl}}/bspr-bursaries-2016)

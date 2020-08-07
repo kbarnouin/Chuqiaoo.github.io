@@ -6,6 +6,7 @@ title:  "Bursaries and fellowships"
 permalink: /bursaries-and-fellowships/
 <!--author_profile: true-->
 comments: true
+published: false
 sidebar:
   nav: "docs"
 ---
