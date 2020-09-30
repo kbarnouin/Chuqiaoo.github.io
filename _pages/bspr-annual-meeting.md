@@ -16,6 +16,9 @@ sidebar:
 
 <!--{% endfor %}-->
 
+### 2019
+
+- [BSPR 2019]({{site.baseurl}}/event/bspr-meeting-2019)
 
 ### 2018
 
