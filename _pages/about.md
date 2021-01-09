@@ -1,8 +1,6 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "About"
-<!--date:   2018-05-30-->
 permalink: /about/
 comments: true
 sidebar:
