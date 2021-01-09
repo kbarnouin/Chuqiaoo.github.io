@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Travel Information and Bus Timetable"
-<!--date:   2018-05-30-->
 permalink: /travel-information-and-bus-timetable
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

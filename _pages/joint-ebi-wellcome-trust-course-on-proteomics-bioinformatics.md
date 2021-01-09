@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Joint EBI-Wellcome Trust Course on Proteomics Bioinformatics"
-<!--date:   2018-05-30-->
 permalink: /joint-ebi-wellcome-trust-course-on-proteomics-bioinformatics
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 15-19 July 2011. EBI, Hinxton, Cambridge, UK

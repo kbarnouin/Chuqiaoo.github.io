@@ -1,10 +1,7 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "2018 BSPR Photos"
-<!--date:   2018-05-30-->
 permalink: /bspr-2018-photos/
-<!--author_profile: true-->
 sidebar:
   nav: "docs"
 comments: true
@@ -60,7 +57,6 @@ gallery:
   - image_path: /assets/images/DSC_0147.jpg
   - image_path: /assets/images/DSC_0154.jpg
   - image_path: /assets/images/DSC_0158.jpg
-
 
 ---
 

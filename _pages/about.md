@@ -5,7 +5,6 @@ permalink: /about/
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 **The British Society for Proteome Research (BSPR)**, is a registered incorporated charity (Registered Company Number 6319769, [UK Charity Number 1121692](http://www.charitycommission.gov.uk/registeredcharities/showcharity.asp?regno=1121692&submit=Run+Search)) and aims to advance the science of proteomics, to further public education therein and to promote study and research work in proteomics and related subjects for the public benefit.

@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Registration information"
-<!--date:   2018-05-30-->
 permalink: /registration-information
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

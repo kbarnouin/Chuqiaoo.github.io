@@ -1,22 +1,15 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Newsletter"
-<!--date:   2018-05-30-->
 permalink: /newsletters/
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
-<!--all poast list-->
-
+<!--all post list-->
 {%for post in site.categories.Newsletters%}
-
-
    <li><a href = {{site.baseurl}}{{post.url}}> {{post.title}}</a></li>
-
 {% endfor %}
 
 

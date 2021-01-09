@@ -1,5 +1,4 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR Proteomic Map"
 permalink: /proteomics/map

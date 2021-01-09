@@ -1,22 +1,15 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "News"
-<!--date:   2018-05-30-->
 permalink: /news/
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
-<!--all poast list-->
-
+<!--all post list-->
 {%for post in site.categories.News%}
-
-
    <li><a href = {{site.baseurl}}{{post.url}}> {{post.title}}</a></li>
-
 {% endfor %}
 
 

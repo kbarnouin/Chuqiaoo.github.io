@@ -1,13 +1,9 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Society links"
-<!--date:   2018-05-30-->
 permalink: /proteomics/society-links
-<!--comments: true-->
 sidebar:
   nav: "docs"
-
 ---
 
 

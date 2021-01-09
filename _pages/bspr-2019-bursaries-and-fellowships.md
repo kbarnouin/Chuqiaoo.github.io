@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR 2019 Bursaries and Fellowships"
-<!--date:   2020-08-07-->
 permalink: /bspr-2019-bursaries-and-fellowships
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 #### MJ Dunn Fellowships

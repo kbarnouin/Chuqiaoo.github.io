@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR Lectureship 2010"
-<!--date:   2018-05-30-->
 permalink: /bspr-lectureship-2010
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 The BSPR is pleased to announce a call for its newly established BSPR lectureship for experienced scientists in proteome research.

@@ -1,14 +1,9 @@
 ---
-<!--type: pages-->
 layout: single
 title:  BSPR 2019 Annual Scientific meeting
-<!--date:   2018-05-30-->
 permalink: /bspr-2019/accommdation/
-<!--author_profile: true-->
 sidebar:
   nav: "docs"
-comments: true
-
 ---
 
 

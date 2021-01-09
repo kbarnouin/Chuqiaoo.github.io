@@ -3,7 +3,6 @@ layout: single
 title:  "NEWSLETTER - May 2015"
 date:   2018-05-30
 categories: Newsletters
-
 sidebar:
   nav: "docs"
 ---

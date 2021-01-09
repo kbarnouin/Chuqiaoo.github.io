@@ -1,10 +1,7 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Bursaries and fellowships"
-<!--date:   2018-05-30-->
 permalink: /bursaries-and-fellowships/
-<!--author_profile: true-->
 comments: true
 sidebar:
   nav: "docs"

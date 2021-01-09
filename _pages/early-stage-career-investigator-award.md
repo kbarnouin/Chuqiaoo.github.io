@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Early Stage Career Investigator Award"
-<!--date:   2018-05-30-->
 permalink: /early-stage-career-investigator-award
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

@@ -1,12 +1,10 @@
 ---
-
 layout: single
 title:  "General information"
 permalink: /general-information
 comments: true
 sidebar:
    nav: "docs"
-
 ---
 
 

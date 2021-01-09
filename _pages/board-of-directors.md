@@ -1,8 +1,6 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Board of Directors (Trustees)"
-<!--date:   2018-05-30-->
 permalink: /about/board-of-directors-trustees
 sidebar:
   nav: "docs"

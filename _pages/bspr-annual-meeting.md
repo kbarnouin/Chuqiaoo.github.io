@@ -1,8 +1,6 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR Annual Meetings"
-<!--date:   2018-05-30-->
 permalink: /events/
 comments: true
 sidebar:

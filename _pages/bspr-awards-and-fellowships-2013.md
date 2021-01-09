@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR Awards and Fellowships 2013"
-<!--date:   2018-05-30-->
 permalink: /bspr-awards-and-fellowships-2013
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

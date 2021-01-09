@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR 2017 Bursaries and Fellowships"
-<!--date:   2018-05-30-->
 permalink: /bspr-2017-bursaries-and-fellowships
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 #### 2017 European Summer School Bursary

@@ -1,13 +1,9 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Journals"
-<!--date:   2018-05-30-->
 permalink: /proteomics/journals
-<!--comments: true-->
 sidebar:
   nav: "docs"
-
 ---
 
 [European Pharmaceutical Review<br>](http://www.europeanpharmaceuticalreview.com/)

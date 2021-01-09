@@ -1,13 +1,9 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Membership Benefits"
-<!--date:   2018-05-30-->
 permalink: /about/membership/benefits
-<!--comments: true-->
 sidebar:
   nav: "docs"
-
 ---
 
 

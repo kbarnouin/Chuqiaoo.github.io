@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Poster Abstract Submission"
-<!--date:   2018-05-30-->
 permalink: /poster-abstract-submission
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

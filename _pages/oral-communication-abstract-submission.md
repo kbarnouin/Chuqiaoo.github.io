@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Oral Communication Abstract Submission"
-<!--date:   2018-05-30-->
 permalink: /oral-communication-abstract-submission
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 There is an opportunity to submit Abstracts for Oral Communications on topics relevant to the theme of the meeting.

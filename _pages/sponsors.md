@@ -1,10 +1,7 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Sponsors"
-<!--date:   2018-05-30-->
 permalink: /sponsors/
-<!--author_profile: true-->
 sidebar:
   nav: "docs"
 comments: true

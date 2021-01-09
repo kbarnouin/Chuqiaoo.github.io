@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR-EBI 2010 presentations"
-<!--date:   2018-05-30-->
 permalink: /bspr-ebi-2010-presentations
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Help to Promote this Meeting"
-<!--date:   2018-05-30-->
 permalink: /help-to-promote-this-meeting
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

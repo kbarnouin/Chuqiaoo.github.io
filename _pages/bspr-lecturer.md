@@ -1,14 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR Lecturer"
-<!--date:   2018-05-30-->
 permalink: /bspr-lecturer/
-<!--permalink: /:categories/:title/-->
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 <img align="right" width= "140" height ="100" src="{{site.baseurl}}/assets/images/Kathryn-Portrait.jpg">We are pleased to have **Prof Kathryn Lilley** from the University of Cambridge as our BSPR Lecturer.

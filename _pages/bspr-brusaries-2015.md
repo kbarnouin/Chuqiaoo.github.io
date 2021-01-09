@@ -1,13 +1,9 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR BURSARIES 2015"
-<!--date:   2018-05-30-->
 permalink: /bspr-bursaries-2015
-<!--comments: true-->
 sidebar:
   nav: "docs"
-
 ---
 
 ## MJ Dunn Fellowship Awardee 2015

@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "Poster Abstract Submission 2010"
-<!--date:   2018-05-30-->
 permalink: /poster-abstract-submission-2010
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 A prize, sponsored by the Royal Society of Chemistry journal Molecular BioSystems, will be awarded for the best poster at the Meeting

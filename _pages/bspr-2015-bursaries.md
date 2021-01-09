@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR Bursaries 2015"
-<!--date:   2018-05-30-->
 permalink: /bspr-bursaries-2015
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 

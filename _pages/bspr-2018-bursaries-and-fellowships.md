@@ -1,13 +1,10 @@
 ---
-<!--type: pages-->
 layout: single
 title:  "BSPR 2018 Bursaries and Fellowships"
-<!--date:   2018-05-30-->
 permalink: /bspr-2018-bursaries-and-fellowships
 comments: true
 sidebar:
   nav: "docs"
-
 ---
 
 #### STUDENT
