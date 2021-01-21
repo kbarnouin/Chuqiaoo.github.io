@@ -31,7 +31,7 @@ comments: true
 | **Sara Zanivan**| **Karin Barnouin**|
 |CRUK Beatson Institute <br>University of Glasgow<br> Switchback Road <br>Glasgow <br>G61 1BD <br>United Kingdom|UCB Celltech<br> 216 Bath Rd<br> Slough SL1 3WE<br> United Kingdom|
 | **Harry Whitwell**|**Rob Beynon**|
-|Research Associate <br>Department of Chemical Engineering<br>Faculty of Engineering<br> Imperial College London <br>London <br>United Kingdom| Institute of Integrative Biology<br>University of Liverpool <br> United Kingdom|
+|Proteomics Platform Leads<br>National Phenome Centre<br>Faculty of Medicine<br> Imperial College London <br>London <br>United Kingdom| Institute of Integrative Biology<br>University of Liverpool <br> United Kingdom|
 
 
 
