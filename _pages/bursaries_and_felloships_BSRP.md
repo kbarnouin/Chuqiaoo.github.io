@@ -12,7 +12,7 @@ sidebar:
 
 Several bursaries and fellowships are awarded each year to BSPR members that are either students (MSc and Ph.D.), post-docs, or technical staff to attend proteomics-related conferences or workshops. During the COVID-19 pandemic, most face-to-face conferences have been canceled and several of them have moved them on-line. The BSPR has therefore decided to offer bursaries (up to £250) for students, technical staff, and post-docs to attend virtual proteomics-related conferences and workshops that have a registration fee. Only one bursary will be awarded per person each calendar year.
 
-To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (kbarnouin@bioapicem.com) and John Timms (john.timms@ucl.ac.uk). Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
+To apply, please send a brief CV, a statement saying why you wish to attend the meeting, and an abstract of the work that you plan to present (if applicable) to Karin Barnouin (kbarnouin@bioapicem.com) and John Timms. Only members of the BSPR can apply. By accepting the award, the Society will expect to receive a report on the meeting for inclusion in the Society’s newsletter and webpages.
 
 
 - [BSPR 2019 Bursaries and Fellowships]({{site.baseurl}}/bspr-2019-bursaries-and-fellowships)
